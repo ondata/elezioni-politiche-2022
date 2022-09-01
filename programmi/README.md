@@ -35,7 +35,7 @@ Noi - per il momento - abbiamo voluto scaricare tutti i programmi disponibili, p
   - LEGA PER SALVINI PREMIER - FORZA ITALIA - FRATELLI D'ITALIA
 - i **formati file** dei programmi sono così suddivisi:
   - **30** file **PDF**;
-  - **1** file **DOC**;
+  - **1** file **DOC** (non è un formato file citato nel documento di istruzioni);
 - Circa il **75% dei programmi in PDF** - 23 su 30 - **non ha il testo leggibile** (contengono soltanto immagini);
 - **6 programmi** sono composti da **meno di 3 pagine**. Il 75% rientra in un massimale di 18 pagine;
 - due partiti, "PARTITO DEMOCRATICO - ITALIA DEMOCRATICA E PROGRESSISTA" e "ALLEANZA VERDI E SINISTRA", sono presenti in elenco (sia su [sito](https://dait.interno.gov.it/elezioni/trasparenza/elezioni-politiche-2022), che sul [file JSON](https://dait.interno.gov.it/documenti/trasparenza/POLITICHE_20220925/POLITICHE_20220925.json) che fa da fonte) più di una volta (non sappiamo se sia un errore).
