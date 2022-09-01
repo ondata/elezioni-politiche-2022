@@ -1,0 +1,4 @@
+tmp*
+.~lock*
+tmp/*
+dati/amministazioni-italiane/rawdata/provincia_di_*.csv
