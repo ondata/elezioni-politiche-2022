@@ -8,9 +8,9 @@ Li abbiamo estratti e sono disponibili in forma nativa nella cartella [`rawdata`
 
 Da questi sono state estratte le anagrafiche di candidate e candidati in formato `CSV`:
 
-- [CAMERA_ITALIA_20220925_pluri](./processing/CAMERA_ITALIA_20220925_pluri.csv)
-- [CAMERA_ITALIA_20220925_uni](./processing/CAMERA_ITALIA_20220925_uni.csv)
-- [CAMERA_ESTERO_20220925](./processing/CAMERA_ESTERO_20220925.csv)
-- [SENATO_ITALIA_20220925_pluri](./processing/SENATO_ITALIA_20220925_pluri.csv)
-- [SENATO_ITALIA_20220925_uni](./processing/SENATO_ITALIA_20220925_uni.csv)
-- [SENATO_ESTERO_20220925](./processing/SENATO_ESTERO_20220925.csv)
+- [`CAMERA_ITALIA_20220925_pluri.csv`](./processing/CAMERA_ITALIA_20220925_pluri.csv)
+- [`CAMERA_ITALIA_20220925_uni.csv`](./processing/CAMERA_ITALIA_20220925_uni.csv)
+- [`CAMERA_ESTERO_20220925.csv`](./processing/CAMERA_ESTERO_20220925.csv)
+- [`SENATO_ITALIA_20220925_pluri.csv`](./processing/SENATO_ITALIA_20220925_pluri.csv)
+- [`SENATO_ITALIA_20220925_uni.csv`](./processing/SENATO_ITALIA_20220925_uni.csv)
+- [`SENATO_ESTERO_20220925.csv`](./processing/SENATO_ESTERO_20220925.csv)
