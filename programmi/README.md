@@ -28,8 +28,7 @@ Noi - per il momento - abbiamo voluto scaricare tutti i programmi disponibili, p
 ## Note sui programmi
 
 - **35** i **partiti** (movimenti o gruppi politici) in elenco;
-- **31** i **programmi** disponibili;
-- al 2 settembre 2022, **mancano i programmi** di:
+- **31** i **programmi** disponibili. Al 2 settembre 2022 non è presente un programma per:
   - MOVIMENTO ASSOCIATIVO ITALIANI ALL'ESTERO - MAIE
   - MOVIMENTO DELLE LIBERTA'
   - UNIONE SUDAMERICANA EMIGRATI ITALIANI - USEI
