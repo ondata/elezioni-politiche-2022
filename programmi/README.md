@@ -6,7 +6,7 @@ Il 25 settembre 2022 si svolgeranno le elezioni politiche 2022.
 
 Così come previsto nelle "[Istruzioni per la presentazione e l'ammissione delle candidature](https://dait.interno.gov.it/documenti/pubb_01_politiche_ed.2022.pdf)", è previsto il  "**deposito, presso il Ministero dell'interno, del programma elettorale del partito o gruppo politico**", anche in formato digitale:
 
-> Per il programma elettorale è richiesto, oltre al formato cartaceo, anche quello digitale, in quanto necessario ai fini degli adempimenti previsti dall'articolo 4, comma 1, della legge n. 165 / 2017 e dall'articolo 2 della legge n. 4 / 2004. Pertanto, dovrà essere consegnato anche un CD-RO M contenente i files **in formato accessibile (PDF/A)**.
+> Per il programma elettorale è richiesto, oltre al formato cartaceo, anche quello digitale, in quanto necessario ai fini degli adempimenti previsti dall'articolo 4, comma 1, della legge n. 165 / 2017 e dall'articolo 2 della legge n. 4 / 2004. Pertanto, dovrà essere consegnato anche un CD-ROM contenente i files **in formato accessibile (PDF/A)**.
 
 L'[articolo 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-11-03;165~art4) della legge n. 165 / 2017 ha disposto che, in un'apposita sezione del sito internet del Ministero dell'interno, denominata «[ELEZIONI TRASPARENTI](https://dait.interno.gov.it/elezioni/trasparenza/elezioni-politiche-2022)», entro dieci giorni dalla scadenza del termine per il deposito dei contrassegni, per ciascun partito, movimento e gruppo politico organizzato che ha presentato le liste, **SONO PUBBLICATI,IN MANIERA FACILMENTE ACCESSIBILI** (il tutto maiuscolo è presente nelle istruzioni del Ministero):
 
