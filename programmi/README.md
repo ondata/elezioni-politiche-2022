@@ -38,7 +38,6 @@ Noi - per il momento - abbiamo voluto scaricare tutti i programmi disponibili, p
   - **30** file **PDF**;
   - **1** file **DOC**;
 - Circa il **75% dei programmi in PDF** - 23 su 30 - **non ha il testo leggibile** (contengono soltanto immagini);
-- xx programmi su xxx non sono accessibili, sono PDF con all'interno scansioni
 - **6 programmi** sono composti da **meno di 3 pagine**. Il 75% dei rientra in un massimale di 18 pagine di programma.
 
 Qui il [file di anagrafica](processing/anagrafica.csv) informativa sui programmi (i dettagli al momento sono presenti soltanto su quelli in formato PDF).
