@@ -8,8 +8,6 @@ set -o pipefail
 ### requisiti ###
 # Miller 5
 # jq
-# exiftool
-# pdftotext
 ### requisiti ###
 
 folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
