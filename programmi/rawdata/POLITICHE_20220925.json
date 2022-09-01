@@ -1,0 +1,1198 @@
+{
+  "metadata": {
+    "elez": "POLITICHE",
+    "tp_elez": 18,
+    "dt_elez": "25 09 2022",
+    "dt_rep": "29/08/2022 11:30:00",
+    "dir": "POLITICHE_20220925"
+  },
+  "contrass": [
+    {
+      "n_ord": 2,
+      "l_fasc": null,
+      "id_dep": 1000,
+      "nome_c": "capo della",
+      "cogn_c": "forza politica",
+      "partito": "MOVIMENTO ASSOCIATIVO ITALIANI ALL'ESTERO - MAIE",
+      "f_contr": "002MOVIMENTOASOOCIATIVOITALIANIALLESTEROMAIE_SIE.PNG",
+      "f_progr": null,
+      "e_rappr": [
+        {
+          "nome": "RICARDO ANTONIO",
+          "cogn": "MERLO",
+          "ruolo": "Mandante"
+        }
+      ],
+      "e_file": [
+        {
+          "tp_doc": 3,
+          "desc_tp": "Statuto di cui all’art. 3 del decreto-legge 28 dicembre 2013, n. 149, convertito dalla legge n.13/2014",
+          "f_doc": "(2_man_merlo_ricardo_antonio_3_1093)-movimento_associativo_italiani_estero_maie.statuto.pdf"
+        }
+      ]
+    },
+    {
+      "n_ord": 7,
+      "l_fasc": null,
+      "id_dep": 1004,
+      "nome_c": "CARLO",
+      "cogn_c": "CALENDA",
+      "partito": "AZIONE - ITALIA VIVA - CALENDA",
+      "f_contr": "007AZIONEITALIAVIVACALENDA_SIE.PNG",
+      "f_progr": null,
+      "e_rappr": [
+        {
+          "nome": "CARLO",
+          "cogn": "CALENDA",
+          "ruolo": "Mandante"
+        },
+        {
+          "nome": "ETTORE",
+          "cogn": "ROSATO",
+          "ruolo": "Mandante"
+        }
+      ],
+      "e_file": [
+        {
+          "tp_doc": 2,
+          "desc_tp": "Programma elettorale del partito o gruppo politico",
+          "f_doc": "(7_progr_2_)-programma_azione-italia_viva-calenda.pdf"
+        },
+        {
+          "tp_doc": 3,
+          "desc_tp": "Statuto di cui all’art. 3 del decreto-legge 28 dicembre 2013, n. 149, convertito dalla legge n.13/2014",
+          "f_doc": "(7_man_calenda_carlo_3_1095)-azione.statuto.pdf"
+        },
+        {
+          "tp_doc": 3,
+          "desc_tp": "Statuto di cui all’art. 3 del decreto-legge 28 dicembre 2013, n. 149, convertito dalla legge n.13/2014",
+          "f_doc": "(7_man_rosato_ettore_3_1096)-italia_viva_.statuto.pdf"
+        }
+      ]
+    },
+    {
+      "n_ord": 8,
+      "l_fasc": null,
+      "id_dep": 1005,
+      "nome_c": "RAFFAELE",
+      "cogn_c": "FANTETTI",
+      "partito": "MASTELLA NOI DI CENTRO EUROPEISTI ",
+      "f_contr": "008MASTELLANOIDICENTROEUROPEISTI_SIE.PNG",
+      "f_progr": null,
+      "e_rappr": [
+        {
+          "nome": "RAFFAELE",
+          "cogn": "FANTETTI",
+          "ruolo": "Depositante"
+        },
+        {
+          "nome": "MARIO CLEMENTE",
+          "cogn": "MASTELLA",
+          "ruolo": "Depositante"
+        }
+      ],
+      "e_file": [
+        {
+          "tp_doc": 2,
+          "desc_tp": "Programma elettorale del partito o gruppo politico",
+          "f_doc": "(8_progr_2_)-programma_elettorale_della_lista_europeisti_-_noi_di_centro_-_mastella.pdf"
+        },
+        {
+          "tp_doc": 3,
+          "desc_tp": "Statuto di cui all’art. 3 del decreto-legge 28 dicembre 2013, n. 149, convertito dalla legge n.13/2014",
+          "f_doc": "(8_dep_fantetti_raffaele_3_2498)-17_statuto_1-03-2022__n.50.pdf"
+        },
+        {
+          "tp_doc": 6,
+          "desc_tp": "Trasparenza",
+          "f_doc": "(8_dep_mastella_mario_clemente_6_2499)-noi_di_centro-mastella.dichiarazione_trasparenza.pdf"
+        }
+      ]
+    },
+    {
+      "n_ord": 9,
+      "l_fasc": null,
+      "id_dep": 1006,
+      "nome_c": "MATTEO",
+      "cogn_c": "SALVINI",
+      "partito": "LEGA PER SALVINI PREMIER",
+      "f_contr": "009LEGAPERSALVINI_SIE.PNG",
+      "f_progr": null,
+      "e_rappr": [
+        {
+          "nome": "GIULIO",
+          "cogn": "CENTEMERO",
+          "ruolo": "Mandante"
+        }
+      ],
+      "e_file": [
+        {
+          "tp_doc": 2,
+          "desc_tp": "Programma elettorale del partito o gruppo politico",
+          "f_doc": "(9_progr_2_)-lega_per_salvini_premier.programma.pdf"
+        },
+        {
+          "tp_doc": 3,
+          "desc_tp": "Statuto di cui all’art. 3 del decreto-legge 28 dicembre 2013, n. 149, convertito dalla legge n.13/2014",
+          "f_doc": "(9_man_centemero_giulio_3_1097)-28_statuto_22-11-2018__n._272.pdf"
+        }
+      ]
+    },
+    {
+      "n_ord": 10,
+      "l_fasc": null,
+      "id_dep": 1007,
+      "nome_c": "CATENO",
+      "cogn_c": "DE LUCA",
+      "partito": "SUD CHIAMA NORD",
+      "f_contr": "010DE_LUCASINDACO_DITALIASUD_CHIAMANORD_SIE.PNG",
+      "f_progr": null,
+      "e_rappr": [
+        {
+          "nome": "ISMAELE",
+          "cogn": "LA VARDERA",
+          "ruolo": "Mandante"
+        }
+      ],
+      "e_file": [
+        {
+          "tp_doc": 2,
+          "desc_tp": "Programma elettorale del partito o gruppo politico",
+          "f_doc": "(10_progr_2_)-sud_chiama_nord.programma.pdf"
+        },
+        {
+          "tp_doc": 6,
+          "desc_tp": "Trasparenza",
+          "f_doc": "(10_man_la_vardera_ismaele_6_1098)-sud_chiama_nord.dichiarazione_di_trasparenza.pdf"
+        }
+      ]
+    },
+    {
+      "n_ord": 12,
+      "l_fasc": null,
+      "id_dep": 1009,
+      "nome_c": "ANTONIO",
+      "cogn_c": "PAPPALARDO",
+      "partito": "GILET ARANCIONI - UNIONE CATTOLICA ITALIANA",
+      "f_contr": "012GILET_ARANCIONIUNIONE_CATTOLICA_ITALIANA_SIE.PNG",
+      "f_progr": null,
+      "e_rappr": [
+        {
+          "nome": "ANTONIO",
+          "cogn": "PAPPALARDO",
+          "ruolo": "Depositante"
+        },
+        {
+          "nome": "ANGELO",
+          "cogn": "PRESUTTI",
+          "ruolo": "Depositante"
+        }
+      ],
+      "e_file": [
+        {
+          "tp_doc": 2,
+          "desc_tp": "Programma elettorale del partito o gruppo politico",
+          "f_doc": "(12_progr_2_)-12_-_programma_elettorale.pdf"
+        },
+        {
+          "tp_doc": 6,
+          "desc_tp": "Trasparenza",
+          "f_doc": "(12_dep_pappalardo_antonio_6_2510)-12_-_depositante_trasparenza.pdf"
+        },
+        {
+          "tp_doc": 6,
+          "desc_tp": "Trasparenza",
+          "f_doc": "(12_dep_presutti_angelo_6_2511)-12-_depositante_trasparenza_uci.pdf"
+        }
+      ]
+    },
+    {
+      "n_ord": 16,
+      "l_fasc": null,
+      "id_dep": 1013,
+      "nome_c": "GIANLUIGI",
+      "cogn_c": "PARAGONE",
+      "partito": "ITALEXIT PER L'ITALIA",
+      "f_contr": "016ITALEXITPERLITALIA_SIE.PNG",
+      "f_progr": null,
+      "e_rappr": [
+        {
+          "nome": "GIANLUIGI",
+          "cogn": "PARAGONE",
+          "ruolo": "Mandante"
+        }
+      ],
+      "e_file": [
+        {
+          "tp_doc": 2,
+          "desc_tp": "Programma elettorale del partito o gruppo politico",
+          "f_doc": "(16_progr_2_)-italexit_per_l_italia.programma.pdf"
+        },
+        {
+          "tp_doc": 3,
+          "desc_tp": "Statuto di cui all’art. 3 del decreto-legge 28 dicembre 2013, n. 149, convertito dalla legge n.13/2014",
+          "f_doc": "(16_man_paragone_gianluigi_3_1101)-italexit_per_l_italia.statuto.pdf"
+        }
+      ]
+    },
+    {
+      "n_ord": 19,
+      "l_fasc": null,
+      "id_dep": 1017,
+      "nome_c": "MAURO",
+      "cogn_c": "ALBORESI",
+      "partito": "PARTITO COMUNISTA ITALIANO",
+      "f_contr": "019PARTITOCOMUNISTAITALIANO_SIE.PNG",
+      "f_progr": null,
+      "e_rappr": [
+        {
+          "nome": "MAURO",
+          "cogn": "ALBORESI",
+          "ruolo": "Depositante"
+        }
+      ],
+      "e_file": [
+        {
+          "tp_doc": 2,
+          "desc_tp": "Programma elettorale del partito o gruppo politico",
+          "f_doc": "(19_progr_2_)-pci.programma.pdf"
+        },
+        {
+          "tp_doc": 6,
+          "desc_tp": "Trasparenza",
+          "f_doc": "(19_dep_alboresi_mauro_6_2512)-pci.dichiarazione_trasparenza.pdf"
+        }
+      ]
+    },
+    {
+      "n_ord": 21,
+      "l_fasc": null,
+      "id_dep": 1019,
+      "nome_c": "SARA",
+      "cogn_c": "CUNIAL",
+      "partito": "VITA",
+      "f_contr": "021VITA_SIE.PNG",
+      "f_progr": null,
+      "e_rappr": [
+        {
+          "nome": "SARA",
+          "cogn": "CUNIAL",
+          "ruolo": "Depositante"
+        }
+      ],
+      "e_file": [
+        {
+          "tp_doc": 2,
+          "desc_tp": "Programma elettorale del partito o gruppo politico",
+          "f_doc": "(21_progr_2_)-vita.programma_elettorale.pdf"
+        },
+        {
+          "tp_doc": 6,
+          "desc_tp": "Trasparenza",
+          "f_doc": "(21_dep_cunial_sara_6_2515)-vita.dichiarazione_di_trasparenza.pdf"
+        }
+      ]
+    },
+    {
+      "n_ord": 22,
+      "l_fasc": null,
+      "id_dep": 1020,
+      "nome_c": "PHILIPP",
+      "cogn_c": "ACHAMMER",
+      "partito": "SŰDTIROLER VOLKSPARTEI (SVP) - PATT",
+      "f_contr": "022SUDTIROLERVOLKSPARTEI(SVP)_SIE.PNG",
+      "f_progr": null,
+      "e_rappr": [
+        {
+          "nome": "PHILIPP",
+          "cogn": "ACHAMMER",
+          "ruolo": "Mandante"
+        }
+      ],
+      "e_file": [
+        {
+          "tp_doc": 2,
+          "desc_tp": "Programma elettorale del partito o gruppo politico",
+          "f_doc": "(22_progr_2_)-programma_firmato1.pdf"
+        },
+        {
+          "tp_doc": 3,
+          "desc_tp": "Statuto di cui all’art. 3 del decreto-legge 28 dicembre 2013, n. 149, convertito dalla legge n.13/2014",
+          "f_doc": "(22_man_achammer_philipp_3_1104)-57_statuto_29-01-2018_n._23.pdf"
+        }
+      ]
+    },
+    {
+      "n_ord": 23,
+      "l_fasc": null,
+      "id_dep": 1021,
+      "nome_c": "capo della",
+      "cogn_c": "forza politica",
+      "partito": "MOVIMENTO DELLE LIBERTA'",
+      "f_contr": "023MOVIMENTODELLELIBERTA_SIE.PNG",
+      "f_progr": null,
+      "e_rappr": [
+        {
+          "nome": "MASSIMO",
+          "cogn": "ROMAGNOLI",
+          "ruolo": "Mandante"
+        }
+      ],
+      "e_file": [
+        {
+          "tp_doc": 6,
+          "desc_tp": "Trasparenza",
+          "f_doc": "(23_man_romagnoli_massimo_6_1105)-movimento_delle_liberta.dichiarazione_trasparenza.pdf"
+        }
+      ]
+    },
+    {
+      "n_ord": 29,
+      "l_fasc": null,
+      "id_dep": 1025,
+      "nome_c": "MARCO",
+      "cogn_c": "LUSETTI",
+      "partito": "FREE",
+      "f_contr": "029FREE_SIE.PNG",
+      "f_progr": null,
+      "e_rappr": [
+        {
+          "nome": "MARCO",
+          "cogn": "LUSETTI",
+          "ruolo": "Depositante"
+        }
+      ],
+      "e_file": [
+        {
+          "tp_doc": 2,
+          "desc_tp": "Programma elettorale del partito o gruppo politico",
+          "f_doc": "(29_progr_2_)-programma.pdf"
+        },
+        {
+          "tp_doc": 6,
+          "desc_tp": "Trasparenza",
+          "f_doc": "(29_dep_lusetti_marco_6_2520)-dichiarazione_trasparenza_-_notaio.pdf"
+        }
+      ]
+    },
+    {
+      "n_ord": 30,
+      "l_fasc": null,
+      "id_dep": 1028,
+      "nome_c": "ANTONIO",
+      "cogn_c": "PIARULLI",
+      "partito": "PENSIERO E AZIONE PPA",
+      "f_contr": "030PPA_SOST_SIE.PNG",
+      "f_progr": null,
+      "e_rappr": [
+        {
+          "nome": "ANTONIO",
+          "cogn": "PIARULLI",
+          "ruolo": "Mandante"
+        }
+      ],
+      "e_file": [
+        {
+          "tp_doc": 2,
+          "desc_tp": "Programma elettorale del partito o gruppo politico",
+          "f_doc": "(30_progr_2_)-24_progr_politico.pdf"
+        },
+        {
+          "tp_doc": 3,
+          "desc_tp": "Statuto di cui all’art. 3 del decreto-legge 28 dicembre 2013, n. 149, convertito dalla legge n.13/2014",
+          "f_doc": "(30_man_piarulli_antonio_3_1109)-pensiero_azione_-_ppa.statuto.pdf"
+        }
+      ]
+    },
+    {
+      "n_ord": 32,
+      "l_fasc": null,
+      "id_dep": 1030,
+      "nome_c": "MARCO",
+      "cogn_c": "FERRANDO ",
+      "partito": "PARTITO COMUNISTA DEI LAVORATORI",
+      "f_contr": "032PARTITOCOMUNISTADEILAVORATORI_SIE.PNG",
+      "f_progr": null,
+      "e_rappr": [
+        {
+          "nome": "FRANCESCO",
+          "cogn": "GRISOLIA",
+          "ruolo": "Depositante"
+        }
+      ],
+      "e_file": [
+        {
+          "tp_doc": 2,
+          "desc_tp": "Programma elettorale del partito o gruppo politico",
+          "f_doc": "(32_progr_2_)-partito_comunista_dei_lavoratori.programma.doc"
+        },
+        {
+          "tp_doc": 6,
+          "desc_tp": "Trasparenza",
+          "f_doc": "(32_dep_grisolia_francesco_6_2525)-partito_comunista_dei_lavoratoti.dichiarazione_trasparenza.pdf"
+        }
+      ]
+    },
+    {
+      "n_ord": 35,
+      "l_fasc": null,
+      "id_dep": 1034,
+      "nome_c": "GIUSEPPE ",
+      "cogn_c": "CIRILLO DETTO OSCURATO",
+      "partito": "PARTITO DELLA FOLLIA CREATIVA",
+      "f_contr": "035PARTITODELLAFOLLIACREATIVA_SIE.PNG",
+      "f_progr": null,
+      "e_rappr": [
+        {
+          "nome": "GIUSEPPE",
+          "cogn": "CIRILLO DETTO OSCURATO",
+          "ruolo": "Depositante"
+        }
+      ],
+      "e_file": [
+        {
+          "tp_doc": 2,
+          "desc_tp": "Programma elettorale del partito o gruppo politico",
+          "f_doc": "(35_progr_2_)-progrm_eletto.1.pdf"
+        },
+        {
+          "tp_doc": 6,
+          "desc_tp": "Trasparenza",
+          "f_doc": "(35_dep_cirillo_detto_oscurato_giuseppe_6_2530)-dichiarazione_trasparenza.pdf"
+        }
+      ]
+    },
+    {
+      "n_ord": 43,
+      "l_fasc": null,
+      "id_dep": 1040,
+      "nome_c": "SILVIO",
+      "cogn_c": "BERLUSCONI",
+      "partito": "FORZA ITALIA",
+      "f_contr": "043FORZAITALIA_SIE.PNG",
+      "f_progr": null,
+      "e_rappr": [
+        {
+          "nome": "ALFREDO",
+          "cogn": "MESSINA",
+          "ruolo": "Mandante"
+        }
+      ],
+      "e_file": [
+        {
+          "tp_doc": 2,
+          "desc_tp": "Programma elettorale del partito o gruppo politico",
+          "f_doc": "(43_progr_2_)-pdfa_-_programma_forza_italia_politiche_2022.pdf"
+        },
+        {
+          "tp_doc": 3,
+          "desc_tp": "Statuto di cui all’art. 3 del decreto-legge 28 dicembre 2013, n. 149, convertito dalla legge n.13/2014",
+          "f_doc": "(43_man_messina_alfredo_3_1113)-statuto_forza_italia.pdf"
+        }
+      ]
+    },
+    {
+      "n_ord": 44,
+      "l_fasc": null,
+      "id_dep": 1041,
+      "nome_c": "MARIO",
+      "cogn_c": "ADINOLFI",
+      "partito": "ALTERNATIVA PER L'ITALIA - NO GREEN PASS",
+      "f_contr": "044ALTERNATIVAPERLITALIANOGREENPASS_SIE.PNG",
+      "f_progr": null,
+      "e_rappr": [
+        {
+          "nome": "MARIO",
+          "cogn": "ADINOLFI",
+          "ruolo": "Depositante"
+        }
+      ],
+      "e_file": [
+        {
+          "tp_doc": 2,
+          "desc_tp": "Programma elettorale del partito o gruppo politico",
+          "f_doc": "(44_progr_2_)-programma_apli_pdf_a.pdf"
+        },
+        {
+          "tp_doc": 6,
+          "desc_tp": "Trasparenza",
+          "f_doc": "(44_dep_adinolfi_mario_6_2537)-dichiarazione_trasparenza_adinolfi_pdfa.pdf"
+        }
+      ]
+    },
+    {
+      "n_ord": 45,
+      "l_fasc": null,
+      "id_dep": 1042,
+      "nome_c": "LILLO MASSIMILIANO",
+      "cogn_c": "MUSSO ",
+      "partito": "FORZA DEL POPOLO",
+      "f_contr": "045FORZADELPOPOLO_SIE.PNG",
+      "f_progr": null,
+      "e_rappr": [
+        {
+          "nome": "LILLO MASSIMILIANO",
+          "cogn": "MUSSO",
+          "ruolo": "Depositante"
+        }
+      ],
+      "e_file": [
+        {
+          "tp_doc": 2,
+          "desc_tp": "Programma elettorale del partito o gruppo politico",
+          "f_doc": "(45_progr_2_)-03_programma_e_indicazione_capo_politico.pdf"
+        },
+        {
+          "tp_doc": 6,
+          "desc_tp": "Trasparenza",
+          "f_doc": "(45_dep_musso_lillo_massimiliano_6_2539)-02_dichiarazione_di_trasparenza.pdf"
+        }
+      ]
+    },
+    {
+      "n_ord": 48,
+      "l_fasc": null,
+      "id_dep": 1046,
+      "nome_c": "MAURIZIO ENZO",
+      "cogn_c": "LUPI",
+      "partito": "NOI MODERATI / LUPI - TOTI - BRUGNARO - UDC",
+      "f_contr": "048NOIMODERATICONLITALIAMAURIZIOLUPIITALIAALCENTROCONTOTICORAGGIOITALIABRUGNAROUDC_SIE.PNG",
+      "f_progr": null,
+      "e_rappr": [
+        {
+          "nome": "MAURIZIO ENZO",
+          "cogn": "LUPI",
+          "ruolo": "Mandante"
+        }
+      ],
+      "e_file": [
+        {
+          "tp_doc": 2,
+          "desc_tp": "Programma elettorale del partito o gruppo politico",
+          "f_doc": "(48_progr_2_)-programma.pdf"
+        },
+        {
+          "tp_doc": 3,
+          "desc_tp": "Statuto di cui all’art. 3 del decreto-legge 28 dicembre 2013, n. 149, convertito dalla legge n.13/2014",
+          "f_doc": "(48_man_lupi_maurizio_enzo_3_1116)-48_-_mandante_statuto_di_cui_all_art._3_del_decreto-legge.pdf"
+        }
+      ]
+    },
+    {
+      "n_ord": 53,
+      "l_fasc": null,
+      "id_dep": 1051,
+      "nome_c": "ROBERTO",
+      "cogn_c": "FIORE",
+      "partito": "FORZA NUOVA - APF",
+      "f_contr": "053FORZANUOVA_SIE.PNG",
+      "f_progr": null,
+      "e_rappr": [
+        {
+          "nome": "ROBERTO",
+          "cogn": "FIORE",
+          "ruolo": "Mandante"
+        }
+      ],
+      "e_file": [
+        {
+          "tp_doc": 2,
+          "desc_tp": "Programma elettorale del partito o gruppo politico",
+          "f_doc": "(53_progr_2_)-programma.pdf"
+        },
+        {
+          "tp_doc": 6,
+          "desc_tp": "Trasparenza",
+          "f_doc": "(53_man_fiore_roberto_6_1118)-dichiarazione_di_trasparenza.pdf"
+        }
+      ]
+    },
+    {
+      "n_ord": 54,
+      "l_fasc": null,
+      "id_dep": 1052,
+      "nome_c": "LUIGI",
+      "cogn_c": "DI MAIO",
+      "partito": "IMPEGNO CIVICO LUIGI DI MAIO - CENTRO DEMOCRATICO",
+      "f_contr": "054IMPEGNOCIVICOLUIGIDIMAIOCENTRODEMOCRATICO_SIE.PNG",
+      "f_progr": null,
+      "e_rappr": [
+        {
+          "nome": "LUIGI",
+          "cogn": "DI MAIO",
+          "ruolo": "Mandante"
+        }
+      ],
+      "e_file": [
+        {
+          "tp_doc": 2,
+          "desc_tp": "Programma elettorale del partito o gruppo politico",
+          "f_doc": "(54_progr_2_)-programma_impegno_civico-ldm-cd_autenticato.docx.pdf"
+        },
+        {
+          "tp_doc": 6,
+          "desc_tp": "Trasparenza",
+          "f_doc": "(54_man_di_maio_luigi_6_1119)-allegato_3_-_dichiarazione_trasparenza_pdfa.pdf"
+        }
+      ]
+    },
+    {
+      "n_ord": 60,
+      "l_fasc": null,
+      "id_dep": 1059,
+      "nome_c": "VINCENZO",
+      "cogn_c": "CASTELLANO",
+      "partito": "L'ITALIA DEL MERIDIONE",
+      "f_contr": "060LITALIADELMERIDIONE_SIE.PNG",
+      "f_progr": null,
+      "e_rappr": [
+        {
+          "nome": "VINCENZO",
+          "cogn": "CASTELLANO",
+          "ruolo": "Depositante"
+        }
+      ],
+      "e_file": [
+        {
+          "tp_doc": 2,
+          "desc_tp": "Programma elettorale del partito o gruppo politico",
+          "f_doc": "(60_progr_2_)-60_-_programma_elettorale.pdf"
+        },
+        {
+          "tp_doc": 6,
+          "desc_tp": "Trasparenza",
+          "f_doc": "(60_dep_castellano_vincenzo_6_2555)-60_-_depositante_trasparenza.pdf"
+        }
+      ]
+    },
+    {
+      "n_ord": 63,
+      "l_fasc": null,
+      "id_dep": 1062,
+      "nome_c": "capo della",
+      "cogn_c": "forza politica",
+      "partito": "UNIONE SUDAMERICANA EMIGRATI ITALIANI - USEI",
+      "f_contr": "063USEI_SIE.PNG",
+      "f_progr": null,
+      "e_rappr": [
+        {
+          "nome": "EUGENIO",
+          "cogn": "SANGREGORIO",
+          "ruolo": "Mandante"
+        }
+      ],
+      "e_file": [
+        {
+          "tp_doc": 3,
+          "desc_tp": "Statuto di cui all’art. 3 del decreto-legge 28 dicembre 2013, n. 149, convertito dalla legge n.13/2014",
+          "f_doc": "(63_man_sangregorio_eugenio_3_1123)-63_statuto_18-12-2015_n._294.pdf"
+        }
+      ]
+    },
+    {
+      "n_ord": 65,
+      "l_fasc": null,
+      "id_dep": 1064,
+      "nome_c": "ANGELO",
+      "cogn_c": "BONELLI",
+      "partito": "ALLEANZA VERDI E SINISTRA",
+      "f_contr": "065AVSNAZIONALE_SIE.PNG",
+      "f_progr": null,
+      "e_rappr": [
+        {
+          "nome": "ANGELO",
+          "cogn": "BONELLI",
+          "ruolo": "Mandante"
+        },
+        {
+          "nome": "NICOLA",
+          "cogn": "FRATOIANNI",
+          "ruolo": "Mandante"
+        },
+        {
+          "nome": "BEATRICE",
+          "cogn": "BRIGNONE",
+          "ruolo": "Mandante"
+        }
+      ],
+      "e_file": [
+        {
+          "tp_doc": 2,
+          "desc_tp": "Programma elettorale del partito o gruppo politico",
+          "f_doc": "(65_progr_2_)-programma_di_alleanza_verdi_e_sinistra_in_pdfa.pdf"
+        },
+        {
+          "tp_doc": 3,
+          "desc_tp": "Statuto di cui all’art. 3 del decreto-legge 28 dicembre 2013, n. 149, convertito dalla legge n.13/2014",
+          "f_doc": "(65_man_fratoianni_nicola_3_1121)-54_statuto_17-11-2021__n._274sinistra.pdf"
+        },
+        {
+          "tp_doc": 3,
+          "desc_tp": "Statuto di cui all’art. 3 del decreto-legge 28 dicembre 2013, n. 149, convertito dalla legge n.13/2014",
+          "f_doc": "(65_man_brignone_beatrice_3_1122)-02_possibile_pubbl_statuto_gu_98_del_28_04_2016_so_14.pdf"
+        },
+        {
+          "tp_doc": 3,
+          "desc_tp": "Statuto di cui all’art. 3 del decreto-legge 28 dicembre 2013, n. 149, convertito dalla legge n.13/2014",
+          "f_doc": "(65_man_bonelli_angelo_3_1120)-europa_verde-verdi_pubbl_statuto_gu_n._293_del_10_12_2021.pdf"
+        }
+      ]
+    },
+    {
+      "n_ord": 65,
+      "l_fasc": "A",
+      "id_dep": 1066,
+      "nome_c": "ANGELO",
+      "cogn_c": "BONELLI",
+      "partito": "ALLEANZA VERDI E SINISTRA",
+      "f_contr": "065AAVS_SIE.PNG",
+      "f_progr": null,
+      "e_rappr": [
+        {
+          "nome": "ANGELO",
+          "cogn": "BONELLI",
+          "ruolo": "Mandante"
+        },
+        {
+          "nome": "NICOLA",
+          "cogn": "FRATOIANNI",
+          "ruolo": "Mandante"
+        },
+        {
+          "nome": "BEATRICE",
+          "cogn": "BRIGNONE",
+          "ruolo": "Mandante"
+        }
+      ],
+      "e_file": [
+        {
+          "tp_doc": 2,
+          "desc_tp": "Programma elettorale del partito o gruppo politico",
+          "f_doc": "(65_progr_2_)-programma_di_alleanza_verdi_e_sinistra_in_pdfa.pdf"
+        },
+        {
+          "tp_doc": 3,
+          "desc_tp": "Statuto di cui all’art. 3 del decreto-legge 28 dicembre 2013, n. 149, convertito dalla legge n.13/2014",
+          "f_doc": "(65_man_fratoianni_nicola_3_1121)-54_statuto_17-11-2021__n._274sinistra.pdf"
+        },
+        {
+          "tp_doc": 3,
+          "desc_tp": "Statuto di cui all’art. 3 del decreto-legge 28 dicembre 2013, n. 149, convertito dalla legge n.13/2014",
+          "f_doc": "(65_man_brignone_beatrice_3_1122)-02_possibile_pubbl_statuto_gu_98_del_28_04_2016_so_14.pdf"
+        },
+        {
+          "tp_doc": 3,
+          "desc_tp": "Statuto di cui all’art. 3 del decreto-legge 28 dicembre 2013, n. 149, convertito dalla legge n.13/2014",
+          "f_doc": "(65_man_bonelli_angelo_3_1120)-europa_verde-verdi_pubbl_statuto_gu_n._293_del_10_12_2021.pdf"
+        }
+      ]
+    },
+    {
+      "n_ord": 65,
+      "l_fasc": "B",
+      "id_dep": 1067,
+      "nome_c": "ANGELO",
+      "cogn_c": "BONELLI",
+      "partito": "ALLEANZA VERDI E SINISTRA",
+      "f_contr": "65BAVS_SIE.PNG",
+      "f_progr": null,
+      "e_rappr": [
+        {
+          "nome": "ANGELO",
+          "cogn": "BONELLI",
+          "ruolo": "Mandante"
+        },
+        {
+          "nome": "NICOLA",
+          "cogn": "FRATOIANNI",
+          "ruolo": "Mandante"
+        },
+        {
+          "nome": "BEATRICE",
+          "cogn": "BRIGNONE",
+          "ruolo": "Mandante"
+        }
+      ],
+      "e_file": [
+        {
+          "tp_doc": 2,
+          "desc_tp": "Programma elettorale del partito o gruppo politico",
+          "f_doc": "(65_progr_2_)-programma_di_alleanza_verdi_e_sinistra_in_pdfa.pdf"
+        },
+        {
+          "tp_doc": 3,
+          "desc_tp": "Statuto di cui all’art. 3 del decreto-legge 28 dicembre 2013, n. 149, convertito dalla legge n.13/2014",
+          "f_doc": "(65_man_fratoianni_nicola_3_1121)-54_statuto_17-11-2021__n._274sinistra.pdf"
+        },
+        {
+          "tp_doc": 3,
+          "desc_tp": "Statuto di cui all’art. 3 del decreto-legge 28 dicembre 2013, n. 149, convertito dalla legge n.13/2014",
+          "f_doc": "(65_man_brignone_beatrice_3_1122)-02_possibile_pubbl_statuto_gu_98_del_28_04_2016_so_14.pdf"
+        },
+        {
+          "tp_doc": 3,
+          "desc_tp": "Statuto di cui all’art. 3 del decreto-legge 28 dicembre 2013, n. 149, convertito dalla legge n.13/2014",
+          "f_doc": "(65_man_bonelli_angelo_3_1120)-europa_verde-verdi_pubbl_statuto_gu_n._293_del_10_12_2021.pdf"
+        }
+      ]
+    },
+    {
+      "n_ord": 68,
+      "l_fasc": null,
+      "id_dep": 1069,
+      "nome_c": "GIORGIA",
+      "cogn_c": "MELONI",
+      "partito": "FRATELLI D'ITALIA CON GIORGIA MELONI",
+      "f_contr": "068FRATELLIDITALIACONGIORGIAMELONI_SIE.PNG",
+      "f_progr": null,
+      "e_rappr": [
+        {
+          "nome": "GIORGIA",
+          "cogn": "MELONI",
+          "ruolo": "Mandante"
+        }
+      ],
+      "e_file": [
+        {
+          "tp_doc": 2,
+          "desc_tp": "Programma elettorale del partito o gruppo politico",
+          "f_doc": "(68_progr_2_)-programma.pdf"
+        },
+        {
+          "tp_doc": 3,
+          "desc_tp": "Statuto di cui all’art. 3 del decreto-legge 28 dicembre 2013, n. 149, convertito dalla legge n.13/2014",
+          "f_doc": "(68_man_meloni_giorgia_3_1124)-20_statuto_30-11-2019__n._281.pdf"
+        }
+      ]
+    },
+    {
+      "n_ord": 71,
+      "l_fasc": null,
+      "id_dep": 1072,
+      "nome_c": "capo della",
+      "cogn_c": "forza politica",
+      "partito": "LEGA PER SALVINI PREMIER - FORZA ITALIA - FRATELLI D'ITALIA",
+      "f_contr": "071SALVINIBERLUSCONIMELONI_SIE.PNG",
+      "f_progr": null,
+      "e_rappr": [
+        {
+          "nome": "GIULIO",
+          "cogn": "CENTEMERO",
+          "ruolo": "Mandante"
+        },
+        {
+          "nome": "ALFREDO",
+          "cogn": "MESSINA",
+          "ruolo": "Mandante"
+        },
+        {
+          "nome": "GIORGIA",
+          "cogn": "MELONI",
+          "ruolo": "Mandante"
+        }
+      ],
+      "e_file": [
+        {
+          "tp_doc": 3,
+          "desc_tp": "Statuto di cui all’art. 3 del decreto-legge 28 dicembre 2013, n. 149, convertito dalla legge n.13/2014",
+          "f_doc": "(71_man_meloni_giorgia_3_1127)-20_statuto_30-11-2019__n._281.pdf"
+        },
+        {
+          "tp_doc": 3,
+          "desc_tp": "Statuto di cui all’art. 3 del decreto-legge 28 dicembre 2013, n. 149, convertito dalla legge n.13/2014",
+          "f_doc": "(71_man_centemero_giulio_3_1125)-28_statuto_22-11-2018__n._272lega.pdf"
+        },
+        {
+          "tp_doc": 3,
+          "desc_tp": "Statuto di cui all’art. 3 del decreto-legge 28 dicembre 2013, n. 149, convertito dalla legge n.13/2014",
+          "f_doc": "(71_man_messina_alfredo_3_1126)-19_statuto_10-11-2017_n.263forzaitalia.pdf"
+        }
+      ]
+    },
+    {
+      "n_ord": 74,
+      "l_fasc": null,
+      "id_dep": 1075,
+      "nome_c": "GIUSEPPE",
+      "cogn_c": "CONTE",
+      "partito": "MOVIMENTO 5 STELLE",
+      "f_contr": "074MOVIMENTO5STELLE_SIE.PNG",
+      "f_progr": null,
+      "e_rappr": [
+        {
+          "nome": "GIUSEPPE",
+          "cogn": "CONTE",
+          "ruolo": "Depositante"
+        }
+      ],
+      "e_file": [
+        {
+          "tp_doc": 2,
+          "desc_tp": "Programma elettorale del partito o gruppo politico",
+          "f_doc": "(74_progr_2_)-programma_m5s_2022-cuore_e_coraggio.pdf"
+        },
+        {
+          "tp_doc": 3,
+          "desc_tp": "Statuto di cui all’art. 3 del decreto-legge 28 dicembre 2013, n. 149, convertito dalla legge n.13/2014",
+          "f_doc": "(74_dep_conte_giuseppe_3_2569)-34_statuto_27-04-2022__n._97.pdf"
+        }
+      ]
+    },
+    {
+      "n_ord": 75,
+      "l_fasc": null,
+      "id_dep": 1076,
+      "nome_c": "ENRICO",
+      "cogn_c": "LETTA",
+      "partito": "PARTITO DEMOCRATICO - ITALIA DEMOCRATICA E PROGRESSISTA",
+      "f_contr": "075PARTITODEMOCRATICO_SIE.PNG",
+      "f_progr": null,
+      "e_rappr": [
+        {
+          "nome": "ENRICO",
+          "cogn": "LETTA",
+          "ruolo": "Mandante"
+        }
+      ],
+      "e_file": [
+        {
+          "tp_doc": 2,
+          "desc_tp": "Programma elettorale del partito o gruppo politico",
+          "f_doc": "(75_progr_2_)-programma_politiche_2022.pdf"
+        },
+        {
+          "tp_doc": 3,
+          "desc_tp": "Statuto di cui all’art. 3 del decreto-legge 28 dicembre 2013, n. 149, convertito dalla legge n.13/2014",
+          "f_doc": "(75_man_letta_enrico_3_1128)-39_statuto_30-10-2021_n._260.pdf"
+        }
+      ]
+    },
+    {
+      "n_ord": 75,
+      "l_fasc": "A",
+      "id_dep": 1078,
+      "nome_c": "capo della",
+      "cogn_c": "forza politica",
+      "partito": "PARTITO DEMOCRATICO - ITALIA DEMOCRATICA E PROGRESSISTA",
+      "f_contr": "075APARTITODEMOCRATICO_SIE.PNG",
+      "f_progr": null,
+      "e_rappr": [
+        {
+          "nome": "ENRICO",
+          "cogn": "LETTA",
+          "ruolo": "Mandante"
+        }
+      ],
+      "e_file": [
+        {
+          "tp_doc": 3,
+          "desc_tp": "Statuto di cui all’art. 3 del decreto-legge 28 dicembre 2013, n. 149, convertito dalla legge n.13/2014",
+          "f_doc": "(75_man_letta_enrico_3_1128)-39_statuto_30-10-2021_n._260.pdf"
+        }
+      ]
+    },
+    {
+      "n_ord": 76,
+      "l_fasc": null,
+      "id_dep": 1077,
+      "nome_c": "MASSIMILIANO",
+      "cogn_c": "PANERO",
+      "partito": "DESTRE UNITE",
+      "f_contr": "076DESTREUNITE_SIE.PNG",
+      "f_progr": null,
+      "e_rappr": [
+        {
+          "nome": "MASSIMILIANO",
+          "cogn": "PANERO",
+          "ruolo": "Depositante"
+        }
+      ],
+      "e_file": [
+        {
+          "tp_doc": 2,
+          "desc_tp": "Programma elettorale del partito o gruppo politico",
+          "f_doc": "(76_progr_2_)-07_-_programma_elettorale.pdf"
+        },
+        {
+          "tp_doc": 3,
+          "desc_tp": "Statuto di cui all’art. 3 del decreto-legge 28 dicembre 2013, n. 149, convertito dalla legge n.13/2014",
+          "f_doc": "(76_dep_panero_massimiliano_3_2571)-14_statuto_29-05-2015_n.123.pdf"
+        }
+      ]
+    },
+    {
+      "n_ord": 83,
+      "l_fasc": null,
+      "id_dep": 1086,
+      "nome_c": "LUIGI",
+      "cogn_c": "DE MAGISTRIS",
+      "partito": "UNIONE POPOLARE CON DE MAGISTRIS",
+      "f_contr": "083UNIONEPOPOLARE_SIE.PNG",
+      "f_progr": null,
+      "e_rappr": [
+        {
+          "nome": "LUIGI",
+          "cogn": "DE MAGISTRIS",
+          "ruolo": "Mandante"
+        }
+      ],
+      "e_file": [
+        {
+          "tp_doc": 2,
+          "desc_tp": "Programma elettorale del partito o gruppo politico",
+          "f_doc": "(83_progr_2_)-programma_elettorale_a.pdf"
+        },
+        {
+          "tp_doc": 6,
+          "desc_tp": "Trasparenza",
+          "f_doc": "(83_man_de_magistris_luigi_6_1130)-unione_popolare.dichiarazione_trasparenza.pdf"
+        }
+      ]
+    },
+    {
+      "n_ord": 86,
+      "l_fasc": null,
+      "id_dep": 1089,
+      "nome_c": "GIOVANNA",
+      "cogn_c": "COLONE",
+      "partito": "ITALIA SOVRANA E POPOLARE",
+      "f_contr": "086ITALIASOVRANAEPOPOLARE_SIE.PNG",
+      "f_progr": null,
+      "e_rappr": [
+        {
+          "nome": "FRANCESCO",
+          "cogn": "TOSCANO",
+          "ruolo": "Depositante"
+        }
+      ],
+      "e_file": [
+        {
+          "tp_doc": 2,
+          "desc_tp": "Programma elettorale del partito o gruppo politico",
+          "f_doc": "(86_progr_2_)-programma.pdf"
+        },
+        {
+          "tp_doc": 6,
+          "desc_tp": "Trasparenza",
+          "f_doc": "(86_dep_toscano_francesco_6_2581)-italia_sovrana_e_popolare._dichiarazione_trasparenza.pdf"
+        }
+      ]
+    },
+    {
+      "n_ord": 88,
+      "l_fasc": null,
+      "id_dep": 1091,
+      "nome_c": "MARCO",
+      "cogn_c": "CAPPATO",
+      "partito": "REFERENDUM E DEMOCRAZIA",
+      "f_contr": "088REFERENDUMEDEMOCRAZIACONCAPPATO_SIE.PNG",
+      "f_progr": null,
+      "e_rappr": [
+        {
+          "nome": "MARCO",
+          "cogn": "PERDUCA",
+          "ruolo": "Depositante"
+        }
+      ],
+      "e_file": [
+        {
+          "tp_doc": 2,
+          "desc_tp": "Programma elettorale del partito o gruppo politico",
+          "f_doc": "(88_progr_2_)-programma.pdf"
+        },
+        {
+          "tp_doc": 6,
+          "desc_tp": "Trasparenza",
+          "f_doc": "(88_dep_perduca_marco_6_2584)-referendum_e_democrazia.dichiarazione_trasparenza.pdf"
+        }
+      ]
+    },
+    {
+      "n_ord": 90,
+      "l_fasc": null,
+      "id_dep": 1093,
+      "nome_c": "CRISTIANO",
+      "cogn_c": "CERIELLO",
+      "partito": "PARTITO ANIMALISTA - UCDL - 10 VOLTE MEGLIO",
+      "f_contr": "090PARTITOANIMALISTAUCDL10VOLTEMEGLIO_SIE.PNG",
+      "f_progr": null,
+      "e_rappr": [
+        {
+          "nome": "CRISTIANO",
+          "cogn": "CERIELLO",
+          "ruolo": "Depositante"
+        }
+      ],
+      "e_file": [
+        {
+          "tp_doc": 2,
+          "desc_tp": "Programma elettorale del partito o gruppo politico",
+          "f_doc": "(90_progr_2_)-all_programma_elettorale_partito_animalista_italiano.pdf"
+        },
+        {
+          "tp_doc": 6,
+          "desc_tp": "Trasparenza",
+          "f_doc": "(90_dep_ceriello_cristiano_6_2586)-partito_animalista_italiano._dichiarazione_trasparenza.pdf"
+        }
+      ]
+    },
+    {
+      "n_ord": 92,
+      "l_fasc": null,
+      "id_dep": 1095,
+      "nome_c": "EMMA",
+      "cogn_c": "BONINO ",
+      "partito": "+EUROPA",
+      "f_contr": "092PIUEUROPA_SIE.PNG",
+      "f_progr": null,
+      "e_rappr": [
+        {
+          "nome": "BENEDETTO",
+          "cogn": "DELLA VEDOVA",
+          "ruolo": "Mandante"
+        }
+      ],
+      "e_file": [
+        {
+          "tp_doc": 2,
+          "desc_tp": "Programma elettorale del partito o gruppo politico",
+          "f_doc": "(92_progr_2_)-piu_europa.programma.pdf"
+        },
+        {
+          "tp_doc": 3,
+          "desc_tp": "Statuto di cui all’art. 3 del decreto-legge 28 dicembre 2013, n. 149, convertito dalla legge n.13/2014",
+          "f_doc": "(92_man_della_vedova_benedetto_3_1131)-1_statuto_7-10-2021_n._240.pdf"
+        }
+      ]
+    },
+    {
+      "n_ord": 98,
+      "l_fasc": null,
+      "id_dep": 1101,
+      "nome_c": "ANTONELLO ROCCO",
+      "cogn_c": "DE PIERRO",
+      "partito": "ITALIA DEI DIRITTI - DE PIERRO",
+      "f_contr": "098ITALIADEIDIRITTIDEPIERRO_SIE.PNG",
+      "f_progr": null,
+      "e_rappr": [
+        {
+          "nome": "ANTONELLO ROCCO",
+          "cogn": "DE PIERRO",
+          "ruolo": "Depositante"
+        }
+      ],
+      "e_file": [
+        {
+          "tp_doc": 2,
+          "desc_tp": "Programma elettorale del partito o gruppo politico",
+          "f_doc": "(98_progr_2_)-programma_elettorale_e_dichiarazione_di_assenso_autenticata_20220812_184408.pdf_a.pdf"
+        },
+        {
+          "tp_doc": 6,
+          "desc_tp": "Trasparenza",
+          "f_doc": "(98_dep_de_pierro_antonello_rocco_6_2594)-italia_dei_diritti_-_de_pierro.dichiarazione_trasparenza.pdf"
+        }
+      ]
+    }
+  ]
+}
