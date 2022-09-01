@@ -1,3 +1,5 @@
+<a href="https://www.datibenecomune.it/"><img src="https://img.shields.io/badge/%F0%9F%99%8F-%23datiBeneComune-%23cc3232"/></a>
+
 # Lista candidate e candidati elezioni politiche 2022
 
 Dal primo settembre 2022 (grazia a Vittorio Nicoletta per l'[avviso](https://twitter.com/vi__enne/status/1565401905622392837)) è stato pubblicato l'[elenco](https://dait.interno.gov.it/elezioni/trasparenza/elezioni-politiche-2022) delle liste delle candidate e dei candidati alle elezioni politiche 2022.
