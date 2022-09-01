@@ -20,3 +20,7 @@ Da questi sono state estratte le anagrafiche di candidate e candidati in formato
 - [`SENATO_ITALIA_20220925_pluri.csv`](./processing/SENATO_ITALIA_20220925_pluri.csv)
 - [`SENATO_ITALIA_20220925_uni.csv`](./processing/SENATO_ITALIA_20220925_uni.csv)
 - [`SENATO_ESTERO_20220925.csv`](./processing/SENATO_ESTERO_20220925.csv)
+
+## Note
+
+Peccato non ci sia come attributo quello del sesso. È un'occasione persa dal punto di vista della cultura del dato.
