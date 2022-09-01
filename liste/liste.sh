@@ -17,8 +17,8 @@ mkdir -p "$folder"/processing
 
 URL_base="https://dait.interno.gov.it"
 
-if [ -f "$folder"/rawdata/tmp-lista.md ]; then
-    rm "$folder"/rawdata/tmp-lista.md
+if [ -f "$folder"/tmp-lista.md ]; then
+    rm "$folder"/tmp-lista.md
 fi
 
 # scarica liste
@@ -27,5 +27,5 @@ curl -kLs 'https://dait.interno.gov.it/elezioni/trasparenza/elezioni-politiche-2
     nome=$(echo "$line" | sed -r 's|/.+/||')
     curl -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36' "$URL_base"/"$line".json >"$folder"/rawdata/"$nome".json
     <"$folder"/rawdata/"$nome".json jq -c '.candidati[]' | mlr --j2c unsparsify then cut -x -r -f ":" >"$folder"/processing/"$nome".csv
-    echo "[$nome](./processing/$nome.csv)" >>"$folder"/tmp-lista.md
+    echo "[\`$nome.csv\`](./processing/$nome.csv)" >>"$folder"/tmp-lista.md
   done
