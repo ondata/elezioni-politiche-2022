@@ -1,8 +1,8 @@
 # Lista candidate e candidati elezioni politiche 2022
 
-Dal primo settembre 2022 (grazia a Vittorio Nicoletta per l'[avviso](https://twitter.com/vi__enne/status/1565401905622392837)) è stato pubblicato l'elenco delle liste delle candidate e dei candidati elezioni politiche 2022.
+Dal primo settembre 2022 (grazia a Vittorio Nicoletta per l'[avviso](https://twitter.com/vi__enne/status/1565401905622392837)) è stato pubblicato l'elenco delle liste delle candidate e dei candidati alle elezioni politiche 2022.
 
-Purtroppo **soltanto come pagina web**, senza rendere disponibile in modo visibile **anche l'accesso alla fonte dati in formato leggibile meccanicamente**.
+Purtroppo **soltanto come pagina web**, **senza** rendere disponibile in modo visibile **anche l'accesso alla fonte dati in formato leggibile meccanicamente**.
 
 Li abbiamo estratti e sono disponibili in forma nativa nella cartella [`rawdata`](./rawdata) (sono dei file `JSON`).
 
