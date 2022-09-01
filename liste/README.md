@@ -4,7 +4,7 @@ Dal primo settembre 2022 (grazia a Vittorio Nicoletta per l'[avviso](https://twi
 
 Purtroppo **soltanto come pagina web**, senza rendere disponibile in modo visibile **anche l'accesso alla fonte dati in formato leggibile meccanicamente**.
 
-Li abbiamo estratti e sono disponibili in forma nativa nella cartella `[rawdata](rawdata)` (sono dei file `JSON`).
+Li abbiamo estratti e sono disponibili in forma nativa nella cartella [`rawdata`](./rawdata) (sono dei file `JSON`).
 
 Da questi sono state estratte le anagrafiche di candidate e candidati in formato `CSV`:
 
