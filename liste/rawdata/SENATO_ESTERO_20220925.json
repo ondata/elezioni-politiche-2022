@@ -1,0 +1,1078 @@
+{
+	"metadata": {
+		"elez": "Senato Estero",
+		"tp_elez": 5,
+		"dt_elez": "25/09/2022",
+		"dt_rep": "01/09/2022 12:12:22",
+		"dir": "SENATO_ESTERO_20220925",
+		"nota": null
+	},
+	"candidati": [
+		{
+			"n_ord": 7,
+			"l_fasc": "0 ",
+			"cod_ente_p": null,
+			"desc_ente_p": null,
+			"cod_ente": "RI1",
+			"desc_ente": "EUROPA",
+			"num_lista": 1,
+			"cod_lista": 421341,
+			"desc_lista": "AZIONE - ITALIA VIVA - CALENDA",
+			"num_c": 1,
+			"cod_cand": 1355604,
+			"nome_c": "GOLAM MAULA",
+			"cogn_c": "TIPU",
+			"altro_1": null,
+			"altro_2": null,
+			"dt_nasc": "10/12/1971",
+			"l_nasc": "BANGLADESH",
+			"cod_fisc": "TPIGMM71T10Z249R",
+			"e_file": [
+				{
+					"tp_doc": null,
+					"f_doc": null
+				}
+			]
+		},
+		{
+			"n_ord": 7,
+			"l_fasc": "0 ",
+			"cod_ente_p": null,
+			"desc_ente_p": null,
+			"cod_ente": "RI1",
+			"desc_ente": "EUROPA",
+			"num_lista": 1,
+			"cod_lista": 421341,
+			"desc_lista": "AZIONE - ITALIA VIVA - CALENDA",
+			"num_c": 2,
+			"cod_cand": 1355799,
+			"nome_c": "ANGELO",
+			"cogn_c": "RENZETTI",
+			"altro_1": null,
+			"altro_2": null,
+			"dt_nasc": "19/04/1954",
+			"l_nasc": "PESCARA",
+			"cod_fisc": "RNZNGL54D19G482B",
+			"e_file": [
+				{
+					"tp_doc": null,
+					"f_doc": null
+				}
+			]
+		},
+		{
+			"n_ord": 23,
+			"l_fasc": "0 ",
+			"cod_ente_p": null,
+			"desc_ente_p": null,
+			"cod_ente": "RI1",
+			"desc_ente": "EUROPA",
+			"num_lista": 2,
+			"cod_lista": 421339,
+			"desc_lista": "MOVIMENTO DELLE LIBERTA'",
+			"num_c": 1,
+			"cod_cand": 1355792,
+			"nome_c": "ALESSANDRA",
+			"cogn_c": "AGOSTINI",
+			"altro_1": null,
+			"altro_2": null,
+			"dt_nasc": "19/01/1971",
+			"l_nasc": "TERNI",
+			"cod_fisc": "GSTLSN71A59L117B",
+			"e_file": [
+				{
+					"tp_doc": null,
+					"f_doc": null
+				}
+			]
+		},
+		{
+			"n_ord": 23,
+			"l_fasc": "0 ",
+			"cod_ente_p": null,
+			"desc_ente_p": null,
+			"cod_ente": "RI1",
+			"desc_ente": "EUROPA",
+			"num_lista": 2,
+			"cod_lista": 421339,
+			"desc_lista": "MOVIMENTO DELLE LIBERTA'",
+			"num_c": 2,
+			"cod_cand": 1355599,
+			"nome_c": "ESTER",
+			"cogn_c": "BARONE",
+			"altro_1": null,
+			"altro_2": null,
+			"dt_nasc": "02/12/1982",
+			"l_nasc": "GERMANIA",
+			"cod_fisc": "BRNSTR82T42Z112F",
+			"e_file": [
+				{
+					"tp_doc": null,
+					"f_doc": null
+				}
+			]
+		},
+		{
+			"n_ord": 74,
+			"l_fasc": "0 ",
+			"cod_ente_p": null,
+			"desc_ente_p": null,
+			"cod_ente": "RI1",
+			"desc_ente": "EUROPA",
+			"num_lista": 3,
+			"cod_lista": 421351,
+			"desc_lista": "MOVIMENTO 5 STELLE",
+			"num_c": 1,
+			"cod_cand": 1355800,
+			"nome_c": "ANDREA",
+			"cogn_c": "BARDIN",
+			"altro_1": null,
+			"altro_2": null,
+			"dt_nasc": "05/10/1968",
+			"l_nasc": "VICENZA",
+			"cod_fisc": "BRDNDR68R05L840K",
+			"e_file": [
+				{
+					"tp_doc": null,
+					"f_doc": null
+				}
+			]
+		},
+		{
+			"n_ord": 74,
+			"l_fasc": "0 ",
+			"cod_ente_p": null,
+			"desc_ente_p": null,
+			"cod_ente": "RI1",
+			"desc_ente": "EUROPA",
+			"num_lista": 3,
+			"cod_lista": 421351,
+			"desc_lista": "MOVIMENTO 5 STELLE",
+			"num_c": 2,
+			"cod_cand": 1355605,
+			"nome_c": "STEFANO",
+			"cogn_c": "BALBI",
+			"altro_1": null,
+			"altro_2": null,
+			"dt_nasc": "01/11/1981",
+			"l_nasc": "VICENZA",
+			"cod_fisc": "BLBSFN81S01L840S",
+			"e_file": [
+				{
+					"tp_doc": null,
+					"f_doc": null
+				}
+			]
+		},
+		{
+			"n_ord": 71,
+			"l_fasc": "0 ",
+			"cod_ente_p": null,
+			"desc_ente_p": null,
+			"cod_ente": "RI1",
+			"desc_ente": "EUROPA",
+			"num_lista": 4,
+			"cod_lista": 421344,
+			"desc_lista": "LEGA PER SALVINI PREMIER - FORZA ITALIA - FRATELLI D'ITALIA",
+			"num_c": 1,
+			"cod_cand": 1355601,
+			"nome_c": "LUIGI",
+			"cogn_c": "BILLE'",
+			"altro_1": null,
+			"altro_2": null,
+			"dt_nasc": "08/01/1964",
+			"l_nasc": "MESSINA",
+			"cod_fisc": "BLLLGU64A08F158Z",
+			"e_file": [
+				{
+					"tp_doc": null,
+					"f_doc": null
+				}
+			]
+		},
+		{
+			"n_ord": 71,
+			"l_fasc": "0 ",
+			"cod_ente_p": null,
+			"desc_ente_p": null,
+			"cod_ente": "RI1",
+			"desc_ente": "EUROPA",
+			"num_lista": 4,
+			"cod_lista": 421344,
+			"desc_lista": "LEGA PER SALVINI PREMIER - FORZA ITALIA - FRATELLI D'ITALIA",
+			"num_c": 2,
+			"cod_cand": 1355795,
+			"nome_c": "ALESSANDRO",
+			"cogn_c": "ZEHENTNER",
+			"altro_1": null,
+			"altro_2": null,
+			"dt_nasc": "19/07/1962",
+			"l_nasc": "MERANO",
+			"cod_fisc": "ZHNLSN62L19F132M",
+			"e_file": [
+				{
+					"tp_doc": null,
+					"f_doc": null
+				}
+			]
+		},
+		{
+			"n_ord": 75,
+			"l_fasc": "0 ",
+			"cod_ente_p": null,
+			"desc_ente_p": null,
+			"cod_ente": "RI1",
+			"desc_ente": "EUROPA",
+			"num_lista": 5,
+			"cod_lista": 421503,
+			"desc_lista": "PARTITO DEMOCRATICO - ITALIA DEMOCRATICA E PROGRESSISTA",
+			"num_c": 1,
+			"cod_cand": 1355595,
+			"nome_c": "ANDREA",
+			"cogn_c": "CRISANTI",
+			"altro_1": null,
+			"altro_2": null,
+			"dt_nasc": "14/09/1954",
+			"l_nasc": "ROMA",
+			"cod_fisc": "CRSNDR54P14H501R",
+			"e_file": [
+				{
+					"tp_doc": null,
+					"f_doc": null
+				}
+			]
+		},
+		{
+			"n_ord": 75,
+			"l_fasc": "0 ",
+			"cod_ente_p": null,
+			"desc_ente_p": null,
+			"cod_ente": "RI1",
+			"desc_ente": "EUROPA",
+			"num_lista": 5,
+			"cod_lista": 421503,
+			"desc_lista": "PARTITO DEMOCRATICO - ITALIA DEMOCRATICA E PROGRESSISTA",
+			"num_c": 2,
+			"cod_cand": 1355597,
+			"nome_c": "MICHELE",
+			"cogn_c": "SCHIAVONE",
+			"altro_1": null,
+			"altro_2": null,
+			"dt_nasc": "18/04/1960",
+			"l_nasc": "FASANO",
+			"cod_fisc": "SCHMHL60D18D508S",
+			"e_file": [
+				{
+					"tp_doc": null,
+					"f_doc": null
+				}
+			]
+		},
+		{
+			"n_ord": 54,
+			"l_fasc": "0 ",
+			"cod_ente_p": null,
+			"desc_ente_p": null,
+			"cod_ente": "RI1",
+			"desc_ente": "EUROPA",
+			"num_lista": 6,
+			"cod_lista": 421340,
+			"desc_lista": "IMPEGNO CIVICO LUIGI DI MAIO - CENTRO DEMOCRATICO",
+			"num_c": 1,
+			"cod_cand": 1355797,
+			"nome_c": "AMERICO",
+			"cogn_c": "CALANDRA",
+			"altro_1": null,
+			"altro_2": null,
+			"dt_nasc": "02/05/1965",
+			"l_nasc": "FRASSO TELESINO",
+			"cod_fisc": "CLNMRC65E02D784Z",
+			"e_file": [
+				{
+					"tp_doc": null,
+					"f_doc": null
+				}
+			]
+		},
+		{
+			"n_ord": 7,
+			"l_fasc": "0 ",
+			"cod_ente_p": null,
+			"desc_ente_p": null,
+			"cod_ente": "RI2",
+			"desc_ente": "AMERICA MERIDIONALE",
+			"num_lista": 1,
+			"cod_lista": 421342,
+			"desc_lista": "AZIONE - ITALIA VIVA - CALENDA",
+			"num_c": 1,
+			"cod_cand": 1355611,
+			"nome_c": "VINCENZO",
+			"cogn_c": "DI MARTINO",
+			"altro_1": null,
+			"altro_2": null,
+			"dt_nasc": "08/12/1961",
+			"l_nasc": "VENEZUELA",
+			"cod_fisc": "DMRVCN61T08Z614J",
+			"e_file": [
+				{
+					"tp_doc": null,
+					"f_doc": null
+				}
+			]
+		},
+		{
+			"n_ord": 7,
+			"l_fasc": "0 ",
+			"cod_ente_p": null,
+			"desc_ente_p": null,
+			"cod_ente": "RI2",
+			"desc_ente": "AMERICA MERIDIONALE",
+			"num_lista": 1,
+			"cod_lista": 421342,
+			"desc_lista": "AZIONE - ITALIA VIVA - CALENDA",
+			"num_c": 2,
+			"cod_cand": 1355810,
+			"nome_c": "MARCELO LUIS",
+			"cogn_c": "ROLAND ZOVICO",
+			"altro_1": null,
+			"altro_2": null,
+			"dt_nasc": "11/03/1979",
+			"l_nasc": "BRASILE",
+			"cod_fisc": "RLNMCL79C11Z602O",
+			"e_file": [
+				{
+					"tp_doc": null,
+					"f_doc": null
+				}
+			]
+		},
+		{
+			"n_ord": 71,
+			"l_fasc": "0 ",
+			"cod_ente_p": null,
+			"desc_ente_p": null,
+			"cod_ente": "RI2",
+			"desc_ente": "AMERICA MERIDIONALE",
+			"num_lista": 2,
+			"cod_lista": 421345,
+			"desc_lista": "LEGA PER SALVINI PREMIER - FORZA ITALIA - FRATELLI D'ITALIA",
+			"num_c": 1,
+			"cod_cand": 1355803,
+			"nome_c": "MARCELLO DAVID",
+			"cogn_c": "BOMRAD",
+			"altro_1": null,
+			"altro_2": null,
+			"dt_nasc": "01/12/1966",
+			"l_nasc": "ARGENTINA",
+			"cod_fisc": "BMRMCL66T01Z600U",
+			"e_file": [
+				{
+					"tp_doc": null,
+					"f_doc": null
+				}
+			]
+		},
+		{
+			"n_ord": 71,
+			"l_fasc": "0 ",
+			"cod_ente_p": null,
+			"desc_ente_p": null,
+			"cod_ente": "RI2",
+			"desc_ente": "AMERICA MERIDIONALE",
+			"num_lista": 2,
+			"cod_lista": 421345,
+			"desc_lista": "LEGA PER SALVINI PREMIER - FORZA ITALIA - FRATELLI D'ITALIA",
+			"num_c": 2,
+			"cod_cand": 1355608,
+			"nome_c": "EMERSON",
+			"cogn_c": "FITTIPALDI",
+			"altro_1": null,
+			"altro_2": null,
+			"dt_nasc": "12/12/1946",
+			"l_nasc": "BRASILE",
+			"cod_fisc": "FTTMSN46T12Z602H",
+			"e_file": [
+				{
+					"tp_doc": null,
+					"f_doc": null
+				}
+			]
+		},
+		{
+			"n_ord": 63,
+			"l_fasc": "0 ",
+			"cod_ente_p": null,
+			"desc_ente_p": null,
+			"cod_ente": "RI2",
+			"desc_ente": "AMERICA MERIDIONALE",
+			"num_lista": 3,
+			"cod_lista": 421090,
+			"desc_lista": "UNIONE SUDAMERICANA EMIGRATI ITALIANI - USEI",
+			"num_c": 1,
+			"cod_cand": 1354532,
+			"nome_c": "JOSE FRANCISCO",
+			"cogn_c": "PALMIOTTI",
+			"altro_1": null,
+			"altro_2": null,
+			"dt_nasc": "16/02/1950",
+			"l_nasc": "CABA (ARGENTINA)",
+			"cod_fisc": "PLMJFR50B16Z600L",
+			"e_file": [
+				{
+					"tp_doc": null,
+					"f_doc": null
+				}
+			]
+		},
+		{
+			"n_ord": 63,
+			"l_fasc": "0 ",
+			"cod_ente_p": null,
+			"desc_ente_p": null,
+			"cod_ente": "RI2",
+			"desc_ente": "AMERICA MERIDIONALE",
+			"num_lista": 3,
+			"cod_lista": 421090,
+			"desc_lista": "UNIONE SUDAMERICANA EMIGRATI ITALIANI - USEI",
+			"num_c": 2,
+			"cod_cand": 1354535,
+			"nome_c": "RODRIGO SEBASTIAN",
+			"cogn_c": "MIGUEL",
+			"altro_1": null,
+			"altro_2": null,
+			"dt_nasc": "20/02/1969",
+			"l_nasc": "CABA (ARGENTINA)",
+			"cod_fisc": "MGLRRG69B20Z600X",
+			"e_file": [
+				{
+					"tp_doc": null,
+					"f_doc": null
+				}
+			]
+		},
+		{
+			"n_ord": 2,
+			"l_fasc": "0 ",
+			"cod_ente_p": null,
+			"desc_ente_p": null,
+			"cod_ente": "RI2",
+			"desc_ente": "AMERICA MERIDIONALE",
+			"num_lista": 4,
+			"cod_lista": 421089,
+			"desc_lista": "MOVIMENTO ASSOCIATIVO ITALIANI ALL'ESTERO - MAIE",
+			"num_c": 1,
+			"cod_cand": 1354523,
+			"nome_c": "LUCIANA",
+			"cogn_c": "LASPRO",
+			"altro_1": null,
+			"altro_2": null,
+			"dt_nasc": "20/02/1974",
+			"l_nasc": "SAN PAOLO (BRASILE)",
+			"cod_fisc": "LSPLCN74B60Z602X",
+			"e_file": [
+				{
+					"tp_doc": null,
+					"f_doc": null
+				}
+			]
+		},
+		{
+			"n_ord": 2,
+			"l_fasc": "0 ",
+			"cod_ente_p": null,
+			"desc_ente_p": null,
+			"cod_ente": "RI2",
+			"desc_ente": "AMERICA MERIDIONALE",
+			"num_lista": 4,
+			"cod_lista": 421089,
+			"desc_lista": "MOVIMENTO ASSOCIATIVO ITALIANI ALL'ESTERO - MAIE",
+			"num_c": 2,
+			"cod_cand": 1354526,
+			"nome_c": "MARIO ALEJANDRO",
+			"cogn_c": "BORGHESE",
+			"altro_1": null,
+			"altro_2": null,
+			"dt_nasc": "14/04/1981",
+			"l_nasc": "CORDOBA (ARGENTINA)",
+			"cod_fisc": "BRGMLJ81D14Z600F",
+			"e_file": [
+				{
+					"tp_doc": null,
+					"f_doc": null
+				}
+			]
+		},
+		{
+			"n_ord": 75,
+			"l_fasc": "0 ",
+			"cod_ente_p": null,
+			"desc_ente_p": null,
+			"cod_ente": "RI2",
+			"desc_ente": "AMERICA MERIDIONALE",
+			"num_lista": 5,
+			"cod_lista": 421337,
+			"desc_lista": "PARTITO DEMOCRATICO - ITALIA DEMOCRATICA E PROGRESSISTA",
+			"num_c": 1,
+			"cod_cand": 1355606,
+			"nome_c": "MARIO ALDO",
+			"cogn_c": "SEBASTIANI",
+			"altro_1": null,
+			"altro_2": null,
+			"dt_nasc": "05/03/1951",
+			"l_nasc": "ARGENTINA",
+			"cod_fisc": "SBSMLD51C05Z600N",
+			"e_file": [
+				{
+					"tp_doc": null,
+					"f_doc": null
+				}
+			]
+		},
+		{
+			"n_ord": 75,
+			"l_fasc": "0 ",
+			"cod_ente_p": null,
+			"desc_ente_p": null,
+			"cod_ente": "RI2",
+			"desc_ente": "AMERICA MERIDIONALE",
+			"num_lista": 5,
+			"cod_lista": 421337,
+			"desc_lista": "PARTITO DEMOCRATICO - ITALIA DEMOCRATICA E PROGRESSISTA",
+			"num_c": 2,
+			"cod_cand": 1355801,
+			"nome_c": "ANGELO ANDREA",
+			"cogn_c": "MATARAZZO",
+			"altro_1": null,
+			"altro_2": null,
+			"dt_nasc": "22/11/1956",
+			"l_nasc": "BRASILE",
+			"cod_fisc": "MTRNLN56S22Z602C",
+			"e_file": [
+				{
+					"tp_doc": null,
+					"f_doc": null
+				}
+			]
+		},
+		{
+			"n_ord": 60,
+			"l_fasc": "0 ",
+			"cod_ente_p": null,
+			"desc_ente_p": null,
+			"cod_ente": "RI2",
+			"desc_ente": "AMERICA MERIDIONALE",
+			"num_lista": 6,
+			"cod_lista": 421352,
+			"desc_lista": "L'ITALIA DEL MERIDIONE",
+			"num_c": 1,
+			"cod_cand": 1355805,
+			"nome_c": "EMILIO JULIO",
+			"cogn_c": "BIANCO",
+			"altro_1": null,
+			"altro_2": null,
+			"dt_nasc": "16/12/1958",
+			"l_nasc": "ARGENTINA",
+			"cod_fisc": "BNCMJL58T16Z600Y",
+			"e_file": [
+				{
+					"tp_doc": null,
+					"f_doc": null
+				}
+			]
+		},
+		{
+			"n_ord": 60,
+			"l_fasc": "0 ",
+			"cod_ente_p": null,
+			"desc_ente_p": null,
+			"cod_ente": "RI2",
+			"desc_ente": "AMERICA MERIDIONALE",
+			"num_lista": 6,
+			"cod_lista": 421352,
+			"desc_lista": "L'ITALIA DEL MERIDIONE",
+			"num_c": 2,
+			"cod_cand": 1355807,
+			"nome_c": "ANGELA",
+			"cogn_c": "ROSSINO",
+			"altro_1": null,
+			"altro_2": null,
+			"dt_nasc": "23/09/1959",
+			"l_nasc": "VENEZUELA",
+			"cod_fisc": "RSSNGL59P63Z600A",
+			"e_file": [
+				{
+					"tp_doc": null,
+					"f_doc": null
+				}
+			]
+		},
+		{
+			"n_ord": 74,
+			"l_fasc": "0 ",
+			"cod_ente_p": null,
+			"desc_ente_p": null,
+			"cod_ente": "RI2",
+			"desc_ente": "AMERICA MERIDIONALE",
+			"num_lista": 7,
+			"cod_lista": 421508,
+			"desc_lista": "MOVIMENTO 5 STELLE",
+			"num_c": 1,
+			"cod_cand": 1355603,
+			"nome_c": "IVANA",
+			"cogn_c": "MAINENTI",
+			"altro_1": null,
+			"altro_2": null,
+			"dt_nasc": "27/05/1962",
+			"l_nasc": "URUGUAY",
+			"cod_fisc": "MNNVNI62E67Z613P",
+			"e_file": [
+				{
+					"tp_doc": null,
+					"f_doc": null
+				}
+			]
+		},
+		{
+			"n_ord": 74,
+			"l_fasc": "0 ",
+			"cod_ente_p": null,
+			"desc_ente_p": null,
+			"cod_ente": "RI2",
+			"desc_ente": "AMERICA MERIDIONALE",
+			"num_lista": 7,
+			"cod_lista": 421508,
+			"desc_lista": "MOVIMENTO 5 STELLE",
+			"num_c": 2,
+			"cod_cand": 1355798,
+			"nome_c": "VINCENZO",
+			"cogn_c": "GARRUTI",
+			"altro_1": null,
+			"altro_2": null,
+			"dt_nasc": "10/05/1974",
+			"l_nasc": "ALTAMURA (BA)",
+			"cod_fisc": "GRRVCN74E10A225B",
+			"e_file": [
+				{
+					"tp_doc": null,
+					"f_doc": null
+				}
+			]
+		},
+		{
+			"n_ord": 75,
+			"l_fasc": "0 ",
+			"cod_ente_p": null,
+			"desc_ente_p": null,
+			"cod_ente": "RI3",
+			"desc_ente": "AMERICA SETTENTRIONALE E CENTRALE",
+			"num_lista": 1,
+			"cod_lista": 421504,
+			"desc_lista": "PARTITO DEMOCRATICO - ITALIA DEMOCRATICA E PROGRESSISTA",
+			"num_c": 1,
+			"cod_cand": 1355804,
+			"nome_c": "FRANCESCA",
+			"cogn_c": "LA MARCA",
+			"altro_1": null,
+			"altro_2": null,
+			"dt_nasc": "30/10/1975",
+			"l_nasc": "CANADA",
+			"cod_fisc": "LMRFNC75R70Z401T",
+			"e_file": [
+				{
+					"tp_doc": null,
+					"f_doc": null
+				}
+			]
+		},
+		{
+			"n_ord": 75,
+			"l_fasc": "0 ",
+			"cod_ente_p": null,
+			"desc_ente_p": null,
+			"cod_ente": "RI3",
+			"desc_ente": "AMERICA SETTENTRIONALE E CENTRALE",
+			"num_lista": 1,
+			"cod_lista": 421504,
+			"desc_lista": "PARTITO DEMOCRATICO - ITALIA DEMOCRATICA E PROGRESSISTA",
+			"num_c": 2,
+			"cod_cand": 1355609,
+			"nome_c": "PASQUALE FRANCESCO",
+			"cogn_c": "NESTICO'",
+			"altro_1": null,
+			"altro_2": null,
+			"dt_nasc": "06/05/1945",
+			"l_nasc": "ISCA SULLO IONIO",
+			"cod_fisc": "NSTPQL45E06E328Y",
+			"e_file": [
+				{
+					"tp_doc": null,
+					"f_doc": null
+				}
+			]
+		},
+		{
+			"n_ord": 74,
+			"l_fasc": "0 ",
+			"cod_ente_p": null,
+			"desc_ente_p": null,
+			"cod_ente": "RI3",
+			"desc_ente": "AMERICA SETTENTRIONALE E CENTRALE",
+			"num_lista": 2,
+			"cod_lista": 421350,
+			"desc_lista": "MOVIMENTO 5 STELLE",
+			"num_c": 1,
+			"cod_cand": 1355802,
+			"nome_c": "ANNA",
+			"cogn_c": "FUMAGALLI",
+			"altro_1": null,
+			"altro_2": null,
+			"dt_nasc": "08/03/1965",
+			"l_nasc": "CATANIA",
+			"cod_fisc": "FMGNNA65C48C351F",
+			"e_file": [
+				{
+					"tp_doc": null,
+					"f_doc": null
+				}
+			]
+		},
+		{
+			"n_ord": 74,
+			"l_fasc": "0 ",
+			"cod_ente_p": null,
+			"desc_ente_p": null,
+			"cod_ente": "RI3",
+			"desc_ente": "AMERICA SETTENTRIONALE E CENTRALE",
+			"num_lista": 2,
+			"cod_lista": 421350,
+			"desc_lista": "MOVIMENTO 5 STELLE",
+			"num_c": 2,
+			"cod_cand": 1355607,
+			"nome_c": "VIRGINIA",
+			"cogn_c": "BAGLIONI",
+			"altro_1": null,
+			"altro_2": null,
+			"dt_nasc": "15/01/1962",
+			"l_nasc": "NARNI",
+			"cod_fisc": "BGLVGN62A55F844C",
+			"e_file": [
+				{
+					"tp_doc": null,
+					"f_doc": null
+				}
+			]
+		},
+		{
+			"n_ord": 2,
+			"l_fasc": "0 ",
+			"cod_ente_p": null,
+			"desc_ente_p": null,
+			"cod_ente": "RI3",
+			"desc_ente": "AMERICA SETTENTRIONALE E CENTRALE",
+			"num_lista": 3,
+			"cod_lista": 421502,
+			"desc_lista": "MOVIMENTO ASSOCIATIVO ITALIANI ALL'ESTERO - MAIE",
+			"num_c": 1,
+			"cod_cand": 1355806,
+			"nome_c": "VINCENZO",
+			"cogn_c": "ODOGUARDI",
+			"altro_1": null,
+			"altro_2": null,
+			"dt_nasc": "02/03/1964",
+			"l_nasc": "COSENZA",
+			"cod_fisc": "DGRVCN64C02D086M",
+			"e_file": [
+				{
+					"tp_doc": null,
+					"f_doc": null
+				}
+			]
+		},
+		{
+			"n_ord": 2,
+			"l_fasc": "0 ",
+			"cod_ente_p": null,
+			"desc_ente_p": null,
+			"cod_ente": "RI3",
+			"desc_ente": "AMERICA SETTENTRIONALE E CENTRALE",
+			"num_lista": 3,
+			"cod_lista": 421502,
+			"desc_lista": "MOVIMENTO ASSOCIATIVO ITALIANI ALL'ESTERO - MAIE",
+			"num_c": 2,
+			"cod_cand": 1355610,
+			"nome_c": "ANTONIO",
+			"cogn_c": "VESPA",
+			"altro_1": null,
+			"altro_2": null,
+			"dt_nasc": "11/10/1942",
+			"l_nasc": "URURI",
+			"cod_fisc": "VSPNTN42R11L505Y",
+			"e_file": [
+				{
+					"tp_doc": null,
+					"f_doc": null
+				}
+			]
+		},
+		{
+			"n_ord": 7,
+			"l_fasc": "0 ",
+			"cod_ente_p": null,
+			"desc_ente_p": null,
+			"cod_ente": "RI3",
+			"desc_ente": "AMERICA SETTENTRIONALE E CENTRALE",
+			"num_lista": 4,
+			"cod_lista": 421505,
+			"desc_lista": "AZIONE - ITALIA VIVA - CALENDA",
+			"num_c": 1,
+			"cod_cand": 1355809,
+			"nome_c": "DANIELE",
+			"cogn_c": "SEVERI BRUNI",
+			"altro_1": null,
+			"altro_2": null,
+			"dt_nasc": "13/10/1975",
+			"l_nasc": "JESI",
+			"cod_fisc": "SVRDNL75R13E388V",
+			"e_file": [
+				{
+					"tp_doc": null,
+					"f_doc": null
+				}
+			]
+		},
+		{
+			"n_ord": 71,
+			"l_fasc": "0 ",
+			"cod_ente_p": null,
+			"desc_ente_p": null,
+			"cod_ente": "RI3",
+			"desc_ente": "AMERICA SETTENTRIONALE E CENTRALE",
+			"num_lista": 5,
+			"cod_lista": 421506,
+			"desc_lista": "LEGA PER SALVINI PREMIER - FORZA ITALIA - FRATELLI D'ITALIA",
+			"num_c": 1,
+			"cod_cand": 1355808,
+			"nome_c": "VINCENZO",
+			"cogn_c": "ARCOBELLI",
+			"altro_1": null,
+			"altro_2": null,
+			"dt_nasc": "08/09/1969",
+			"l_nasc": "CATANIA",
+			"cod_fisc": "RCBVCN69P08C351F",
+			"e_file": [
+				{
+					"tp_doc": null,
+					"f_doc": null
+				}
+			]
+		},
+		{
+			"n_ord": 71,
+			"l_fasc": "0 ",
+			"cod_ente_p": null,
+			"desc_ente_p": null,
+			"cod_ente": "RI3",
+			"desc_ente": "AMERICA SETTENTRIONALE E CENTRALE",
+			"num_lista": 5,
+			"cod_lista": 421506,
+			"desc_lista": "LEGA PER SALVINI PREMIER - FORZA ITALIA - FRATELLI D'ITALIA",
+			"num_c": 2,
+			"cod_cand": 1355612,
+			"nome_c": "ISABELLA LINDA",
+			"cogn_c": "OLIVIERI",
+			"altro_1": null,
+			"altro_2": null,
+			"dt_nasc": "31/07/1961",
+			"l_nasc": "VENEZUELA",
+			"cod_fisc": "LVRSLL61L71Z614N",
+			"e_file": [
+				{
+					"tp_doc": null,
+					"f_doc": null
+				}
+			]
+		},
+		{
+			"n_ord": 71,
+			"l_fasc": "0 ",
+			"cod_ente_p": null,
+			"desc_ente_p": null,
+			"cod_ente": "RI4",
+			"desc_ente": "AFRICA ASIA OCEANIA ANTARTIDE",
+			"num_lista": 1,
+			"cod_lista": 421346,
+			"desc_lista": "LEGA PER SALVINI PREMIER - FORZA ITALIA - FRATELLI D'ITALIA",
+			"num_c": 1,
+			"cod_cand": 1355812,
+			"nome_c": "MICHELE",
+			"cogn_c": "GRIGOLETTI",
+			"altro_1": null,
+			"altro_2": null,
+			"dt_nasc": "14/03/1972",
+			"l_nasc": "VERONA",
+			"cod_fisc": "GRGMHL72C14L781B",
+			"e_file": [
+				{
+					"tp_doc": null,
+					"f_doc": null
+				}
+			]
+		},
+		{
+			"n_ord": 71,
+			"l_fasc": "0 ",
+			"cod_ente_p": null,
+			"desc_ente_p": null,
+			"cod_ente": "RI4",
+			"desc_ente": "AFRICA ASIA OCEANIA ANTARTIDE",
+			"num_lista": 1,
+			"cod_lista": 421346,
+			"desc_lista": "LEGA PER SALVINI PREMIER - FORZA ITALIA - FRATELLI D'ITALIA",
+			"num_c": 2,
+			"cod_cand": 1355615,
+			"nome_c": "ENRICO",
+			"cogn_c": "NAN",
+			"altro_1": null,
+			"altro_2": null,
+			"dt_nasc": "12/05/1953",
+			"l_nasc": "PIETRA LIGURE",
+			"cod_fisc": "NNANRC53E12G605S",
+			"e_file": [
+				{
+					"tp_doc": null,
+					"f_doc": null
+				}
+			]
+		},
+		{
+			"n_ord": 7,
+			"l_fasc": "0 ",
+			"cod_ente_p": null,
+			"desc_ente_p": null,
+			"cod_ente": "RI4",
+			"desc_ente": "AFRICA ASIA OCEANIA ANTARTIDE",
+			"num_lista": 2,
+			"cod_lista": 421343,
+			"desc_lista": "AZIONE - ITALIA VIVA - CALENDA",
+			"num_c": 1,
+			"cod_cand": 1355796,
+			"nome_c": "FEDERICO",
+			"cogn_c": "BERCHI",
+			"altro_1": null,
+			"altro_2": null,
+			"dt_nasc": "17/01/1973",
+			"l_nasc": "ROMA",
+			"cod_fisc": "BRCFRC73A17H501S",
+			"e_file": [
+				{
+					"tp_doc": null,
+					"f_doc": null
+				}
+			]
+		},
+		{
+			"n_ord": 75,
+			"l_fasc": "0 ",
+			"cod_ente_p": null,
+			"desc_ente_p": null,
+			"cod_ente": "RI4",
+			"desc_ente": "AFRICA ASIA OCEANIA ANTARTIDE",
+			"num_lista": 3,
+			"cod_lista": 421338,
+			"desc_lista": "PARTITO DEMOCRATICO - ITALIA DEMOCRATICA E PROGRESSISTA",
+			"num_c": 1,
+			"cod_cand": 1355793,
+			"nome_c": "FRANCESCO",
+			"cogn_c": "GIACOBBE",
+			"altro_1": null,
+			"altro_2": null,
+			"dt_nasc": "10/07/1958",
+			"l_nasc": "CATANIA",
+			"cod_fisc": "GCBFNC58L10C351H",
+			"e_file": [
+				{
+					"tp_doc": null,
+					"f_doc": null
+				}
+			]
+		},
+		{
+			"n_ord": 75,
+			"l_fasc": "0 ",
+			"cod_ente_p": null,
+			"desc_ente_p": null,
+			"cod_ente": "RI4",
+			"desc_ente": "AFRICA ASIA OCEANIA ANTARTIDE",
+			"num_lista": 3,
+			"cod_lista": 421338,
+			"desc_lista": "PARTITO DEMOCRATICO - ITALIA DEMOCRATICA E PROGRESSISTA",
+			"num_c": 2,
+			"cod_cand": 1355794,
+			"nome_c": "SANDRO",
+			"cogn_c": "FRATINI",
+			"altro_1": null,
+			"altro_2": null,
+			"dt_nasc": "22/04/1965",
+			"l_nasc": "ANCONA",
+			"cod_fisc": "FRTSDR65D22A271C",
+			"e_file": [
+				{
+					"tp_doc": null,
+					"f_doc": null
+				}
+			]
+		},
+		{
+			"n_ord": 74,
+			"l_fasc": "0 ",
+			"cod_ente_p": null,
+			"desc_ente_p": null,
+			"cod_ente": "RI4",
+			"desc_ente": "AFRICA ASIA OCEANIA ANTARTIDE",
+			"num_lista": 4,
+			"cod_lista": 421507,
+			"desc_lista": "MOVIMENTO 5 STELLE",
+			"num_c": 1,
+			"cod_cand": 1355596,
+			"nome_c": "CLORIDIA",
+			"cogn_c": "ALTROCCHI",
+			"altro_1": null,
+			"altro_2": null,
+			"dt_nasc": "15/09/1956",
+			"l_nasc": "DOVERA (CR)",
+			"cod_fisc": "LTRCRD56P55D358O",
+			"e_file": [
+				{
+					"tp_doc": null,
+					"f_doc": null
+				}
+			]
+		},
+		{
+			"n_ord": 74,
+			"l_fasc": "0 ",
+			"cod_ente_p": null,
+			"desc_ente_p": null,
+			"cod_ente": "RI4",
+			"desc_ente": "AFRICA ASIA OCEANIA ANTARTIDE",
+			"num_lista": 4,
+			"cod_lista": 421507,
+			"desc_lista": "MOVIMENTO 5 STELLE",
+			"num_c": 2,
+			"cod_cand": 1355598,
+			"nome_c": "LORENZO",
+			"cogn_c": "COLA",
+			"altro_1": null,
+			"altro_2": null,
+			"dt_nasc": "10/08/1974",
+			"l_nasc": "CIVITAVECCHIA (RM)",
+			"cod_fisc": "CLOLNZ74M10C773B",
+			"e_file": [
+				{
+					"tp_doc": null,
+					"f_doc": null
+				}
+			]
+		}
+	]
+}
