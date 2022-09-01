@@ -14,7 +14,7 @@ L'[articolo 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-1
 - lo **statuto** ovvero la dichiarazione di trasparenza;
 - il **programma** elettorale con il nome e cognome della persona indicata come capo della forza politica.
 
- Il suddetto sito internet del Ministero dell'interno nasce per consentire alle persone di accedere agevolmente alle informazioni e ai documenti pubblicati, "*attraverso la ricerca per cognome e nome di ciascun candidato ammesso, per denominazione del partito, del movimento politico o della lista nonché per circoscrizione in occasione delle elezioni europee ed anche per collegio in caso di elezioni politiche*".
+ Il suddetto sito internet del Ministero dell'interno nasce per **consentire alle persone di accedere agevolmente alle informazioni e ai documenti pubblicati**, "*attraverso la ricerca per cognome e nome di ciascun candidato ammesso, per denominazione del partito, del movimento politico o della lista nonché per circoscrizione in occasione delle elezioni europee ed anche per collegio in caso di elezioni politiche*".
 
 ## Cosa abbiamo fatto
 
