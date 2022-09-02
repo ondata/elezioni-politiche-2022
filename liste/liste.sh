@@ -45,5 +45,12 @@ done
 # estrai coalizioni
 find "$folder"/rawdata -iname "*uni*" -type f | while read line; do
   nome=$(basename "$line" .json)
-  jq <"$line" -c '.candidati[]' | mlr --j2c unsparsify then cut -r -f "(cod_cand|e_coal)" then reshape -r ":" -o i,v then put '$lista=regextract_or_else($i,"[0-9]+","");$i=sub($i,".+:","")' then filter -x '$v==""' then reshape -s i,v then sort -n cod_cand,lista,num_lista,cod_lista then unsparsify>"$folder"/processing/"$nome"_coalizioni.csv
+  jq <"$line" -c '.candidati[]' | mlr --j2c unsparsify then \
+  cut -r -f "(cod_cand|e_coal)" then \
+  reshape -r ":" -o i,v then \
+  put '$lista=regextract_or_else($i,"[0-9]+","");$i=sub($i,".+:","")' then \
+  filter -x '$v==""' then \
+  reshape -s i,v then \
+  sort -n cod_cand,lista,num_lista,cod_lista then \
+  unsparsify>"$folder"/processing/"$nome"_coalizioni.csv
 done
