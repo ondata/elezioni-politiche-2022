@@ -40,7 +40,7 @@ Noi - per il momento - abbiamo voluto scaricare tutti i programmi disponibili, p
   - **1** file **DOC** (non è un formato file citato nel documento di istruzioni);
 - Circa il **75% dei programmi in PDF** - 23 su 30 - **non ha il testo leggibile** (contengono soltanto immagini);
 - **6 programmi** sono composti da **meno di 3 pagine**. Il 75% rientra in un massimale di 18 pagine;
-- due partiti, "PARTITO DEMOCRATICO - ITALIA DEMOCRATICA E PROGRESSISTA" e "ALLEANZA VERDI E SINISTRA", sono presenti in elenco (sia su [sito](https://dait.interno.gov.it/elezioni/trasparenza/elezioni-politiche-2022), che sul [file JSON](https://dait.interno.gov.it/documenti/trasparenza/POLITICHE_20220925/POLITICHE_20220925.json) che fa da fonte) più di una volta (non sappiamo se sia un errore).
+- due partiti, "PARTITO DEMOCRATICO - ITALIA DEMOCRATICA E PROGRESSISTA" e "ALLEANZA VERDI E SINISTRA", sono presenti in elenco (sia su [sito](https://dait.interno.gov.it/elezioni/trasparenza/elezioni-politiche-2022), che sul [file JSON](https://dait.interno.gov.it/documenti/trasparenza/POLITICHE_20220925/POLITICHE_20220925.json) che fa da fonte) più di una volta: il primo ha depositato una versione differente del contrassegno per la sezione Estero (dicitura con le iniziali maiuscole e il resto delle parole minuscole invece che tutta in maiuscolo), il secondo ha depositato varianti con dicitura in lingua tedesca, slovena, e ladina.
 
 Qui il [file di anagrafica](processing/anagrafica.csv) informativa sui programmi (i dettagli al momento sono presenti soltanto su quelli in formato PDF).
 
