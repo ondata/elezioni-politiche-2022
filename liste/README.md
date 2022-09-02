@@ -23,4 +23,4 @@ Da questi sono state estratte le anagrafiche di candidate e candidati in formato
 
 ## Note
 
-Peccato non ci sia come attributo quello del sesso. È un'occasione persa dal punto di vista della cultura del dato.
+Peccato non sia visibile sul sito web - come attributo - il sesso. È un'occasione persa dal punto di vista della cultura del dato. È per fortuna però un'attributo estraibile dai dati grezie (grazie [Vittorio](https://github.com/ondata/elezioni-politiche-2022/issues/5) e [Pierpaolo](https://github.com/ondata/elezioni-politiche-2022/issues/6)).
