@@ -26,6 +26,8 @@ if [ -f "$folder"/fonti_dati.txt ]; then
   rm "$folder"/fonti_dati.txt
 fi
 
+find "$folder"/processing/ -maxdepth 1 -name "*.csv" -type f -delete
+
 # scarica liste
 curl -kLs 'https://dait.interno.gov.it/elezioni/trasparenza/elezioni-politiche-2022' -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36' \
   --compressed | sed -e '/carica/,/)/!d' | perl -p -e 's/\n//g' | sed 's/carica/\ncarica/g' | grep -Po '/docu.+?",.+?",' | sed -r 's/ +//g;s|","|/|;s/",//' | grep -vP '.+POLI.+?/POLI.+' | while read -r line; do
@@ -39,7 +41,7 @@ curl -kLs 'https://dait.interno.gov.it/elezioni/trasparenza/elezioni-politiche-2
   CF_FIELD=$(head -n 1 -q "$folder"/processing/"$nome".csv | gawk -F, '{print NF}')
   gawk -F, -v cf_field=$CF_FIELD '{print $cf_field}' "$folder"/processing/"$nome".csv | colrm 1 9 | colrm 3 | gawk '(NR==1) {print "sesso";next} $1<32 {print "M"} $1>31 {print "F"}' | paste -d',' "$folder"/processing/"$nome".csv - >"$folder"/processing/"$nome".csv.tmp
   mv "$folder"/processing/"$nome".csv.tmp "$folder"/processing/"$nome".csv
-  mlr -I --csv cut -x -f cod_fisc "$folder"/processing/"$nome".csv
+  mlr -I --csv cut -x -f cod_fisc then sort -f cod_ente -n n_ord,cod_lista,cod_cand "$folder"/processing/"$nome".csv
 done
 
 # estrai coalizioni
