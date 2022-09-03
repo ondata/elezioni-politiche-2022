@@ -46,7 +46,7 @@ curl -kLs 'https://dait.interno.gov.it/elezioni/trasparenza/elezioni-politiche-2
 done
 
 # estrai coalizioni
-find "$folder"/rawdata -iname "*uni*" -type f | while read line; do
+find "$folder"/rawdata -iname "*uni*" -maxdepth 1 -type f | while read line; do
   nome=$(basename "$line" .json)
   jq <"$line" -c '.candidati[]' | mlr --j2c unsparsify then \
   cut -r -f "(cod_cand|e_coal)" then \
