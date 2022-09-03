@@ -32,7 +32,7 @@ Da questi sono state estratte le anagrafiche di candidate e candidati in formato
 
 ### Sesso
 
-Peccato non sia visibile sul sito web del Ministero - come attributo - anche il sesso di candidate e candidati. È un'occasione persa dal punto di vista della cultura del dato. È per fortuna un attributo estraibile dai dati grezzi (grazie [Vittorio](https://github.com/ondata/elezioni-politiche-2022/issues/5) e [Pierpaolo](https://github.com/ondata/elezioni-politiche-2022/issues/6)).
+Peccato non sia visibile sul sito web del Ministero - come attributo - anche il sesso di candidate e candidati. È un'occasione persa dal punto di vista della cultura del dato. È per fortuna un attributo estraibile dai dati grezzi (grazie [Vittorio](https://github.com/ondata/elezioni-politiche-2022/issues/5) e [Pierpaolo](https://github.com/ondata/elezioni-politiche-2022/issues/6) per l'idea e per il codice).
 
 ### Impossibilità di relazione immediata con dati geografici
 
