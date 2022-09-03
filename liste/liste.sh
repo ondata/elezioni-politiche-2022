@@ -6,7 +6,7 @@ set -u
 set -o pipefail
 
 ### requisiti ###
-# Miller 5
+# Miller 5 https://github.com/johnkerl/miller/releases/tag/v5.10.2
 # jq
 # gawk
 ### requisiti ###
@@ -26,9 +26,10 @@ if [ -f "$folder"/fonti_dati.txt ]; then
   rm "$folder"/fonti_dati.txt
 fi
 
+# cancella tutti i file csv nella cartella processing
 find "$folder"/processing/ -maxdepth 1 -name "*.csv" -type f -delete
 
-# scarica liste
+# scarica liste e creane copia in formato CSV
 curl -kLs 'https://dait.interno.gov.it/elezioni/trasparenza/elezioni-politiche-2022' -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36' \
   --compressed | sed -e '/carica/,/)/!d' | perl -p -e 's/\n//g' | sed 's/carica/\ncarica/g' | grep -Po '/docu.+?",.+?",' | sed -r 's/ +//g;s|","|/|;s/",//' | grep -vP '.+POLI.+?/POLI.+' | while read -r line; do
   nome=$(echo "$line" | sed -r 's|/.+/||')

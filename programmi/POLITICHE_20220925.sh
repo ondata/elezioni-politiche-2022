@@ -6,7 +6,7 @@ set -u
 set -o pipefail
 
 ### requisiti ###
-# Miller 5
+# Miller 5 https://github.com/johnkerl/miller/releases/tag/v5.10.2
 # jq
 # exiftool
 # pdftotext
