@@ -23,6 +23,11 @@ Da questi sono state estratte le anagrafiche di candidate e candidati in formato
 - [`SENATO_ITALIA_20220925_uni_coalizioni.csv`](./processing/SENATO_ITALIA_20220925_uni_coalizioni.csv)
 - [`SENATO_ESTERO_20220925.csv`](./processing/SENATO_ESTERO_20220925.csv)
 
+---
+
+⚠️**AGGIORNAMENTO**: 24 ore dopo l'annuncio della pubblicazione di questi dati, il Ministero ha inserito nella sua pagina web un tasto per il download in formato `CSV`. Ci fa piacere pensare di avere contribuito a stimolare la pubblicazione di questi dati anche in formato leggibile meccanicamente.
+
+---
 ## Note
 
 Peccato non sia visibile sul sito web - come attributo - il sesso. È un'occasione persa dal punto di vista della cultura del dato. È per fortuna un attributo estraibile dai dati grezzi (grazie [Vittorio](https://github.com/ondata/elezioni-politiche-2022/issues/5) e [Pierpaolo](https://github.com/ondata/elezioni-politiche-2022/issues/6)).
