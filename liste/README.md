@@ -57,4 +57,5 @@ CU20_COD 20001
 CU20_DEN Valle d'aosta/Vallée d'Aoste - U01
 CU20_C1  U01
 ```
-Il Ministero degli Interni o Istat dovrebbero pubblicare una stele di Rosetta, per poter facilmente associare le anagrafiche di sopra ai dati geografici. O almeno fare in modo che i campi `desc_ente` (Ministero) e `CU20_DEN` (Istat) abbiano contenuti coerenti per ogni collegio.
+Il Ministero degli Interni o Istat dovrebbero pubblicare una "stele di Rosetta", per poter facilmente associare le anagrafiche di sopra ai dati geografici.<br>
+O almeno fare in modo che i campi `desc_ente` (Ministero) e `CU20_DEN` (Istat) abbiano contenuti coerenti per ogni collegio.
