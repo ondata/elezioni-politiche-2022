@@ -25,7 +25,7 @@ Da questi sono state estratte le anagrafiche di candidate e candidati in formato
 
 ---
 
-⚠️**AGGIORNAMENTO**: 24 ore dopo l'annuncio della pubblicazione di questi dati, il Ministero ha inserito nella sua pagina web un tasto per il download in formato `CSV`. Ci fa piacere pensare di avere contribuito a stimolare la pubblicazione di questi dati anche in formato leggibile meccanicamente.
+⚠️**AGGIORNAMENTO**: 24 ore dopo l'annuncio della pubblicazione di questi dati, il Ministero ha inserito nella [sua pagina web](https://dait.interno.gov.it/elezioni/trasparenza/elezioni-politiche-2022) un tasto per il download in formato `CSV`. Ci fa piacere pensare di avere contribuito a stimolare la pubblicazione di questi dati anche in formato leggibile meccanicamente.
 
 ---
 ## Note
