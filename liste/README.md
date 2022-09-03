@@ -34,7 +34,7 @@ Da questi sono state estratte le anagrafiche di candidate e candidati in formato
 
 Peccato non sia visibile sul sito web del Ministero - come attributo - anche il sesso di candidate e candidati. È un'occasione persa dal punto di vista della cultura del dato. È per fortuna un attributo estraibile dai dati grezzi (grazie [Vittorio](https://github.com/ondata/elezioni-politiche-2022/issues/5) e [Pierpaolo](https://github.com/ondata/elezioni-politiche-2022/issues/6)).
 
-### Possibilità di relazione immediata con dati geografici
+### Impossibilità di relazione immediata con dati geografici
 
 I codici territoriali che individuano i collegi elettorali, non consentono in modo immediato di correlare le liste alle [basi geografiche dei collegi elettorali](https://www.istat.it/it/archivio/273443) pubblicate da Istat. Ad esempio il collegio uninominale della Camera per la regione Valle D'Aosta è denominato `VALLE D'AOSTA - U01` nei dati ministeriali e `Valle d'aosta/Vallée d'Aoste - U01` nei dati Istat.
 
