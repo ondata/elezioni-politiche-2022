@@ -38,7 +38,7 @@ Peccato non sia visibile sul sito web del Ministero - come attributo - anche il 
 
 I codici territoriali che individuano i collegi elettorali, non consentono in modo immediato di correlare le liste alle [basi geografiche dei collegi elettorali](https://www.istat.it/it/archivio/273443) pubblicate da Istat. Ad esempio il collegio uninominale della Camera per la regione Valle D'Aosta è denominato `VALLE D'AOSTA - U01` nei dati ministeriali e `Valle d'aosta/Vallée d'Aoste - U01` nei dati Istat.
 
-Nella prima fonte i codici del collegio della Valle D'Aosta sono:
+Nella prima fonte i codici del collegio uninominale della Valle D'Aosta alla Camera sono:
 
 ```
 cod_ente_p2  NA1
