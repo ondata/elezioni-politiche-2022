@@ -42,7 +42,7 @@ curl -kLs 'https://dait.interno.gov.it/elezioni/trasparenza/elezioni-politiche-2
   CF_FIELD=$(head -n 1 -q "$folder"/processing/"$nome".csv | gawk -F, '{print NF}')
   gawk -F, -v cf_field=$CF_FIELD '{print $cf_field}' "$folder"/processing/"$nome".csv | colrm 1 9 | colrm 3 | gawk '(NR==1) {print "sesso";next} $1<32 {print "M"} $1>31 {print "F"}' | paste -d',' "$folder"/processing/"$nome".csv - >"$folder"/processing/"$nome".csv.tmp
   mv "$folder"/processing/"$nome".csv.tmp "$folder"/processing/"$nome".csv
-  mlr -I --csv cut -x -f cod_fisc then sort -f cod_ente -n n_ord,cod_lista,cod_cand "$folder"/processing/"$nome".csv
+  mlr -I --csv cut -x -f cod_fisc then sort -f cod_ente -n n_ord,cod_lista,cod_cand then clean-whitespace "$folder"/processing/"$nome".csv
 done
 
 # estrai coalizioni
@@ -55,5 +55,5 @@ find "$folder"/rawdata -iname "*uni*" -maxdepth 1 -type f | while read line; do
   filter -x '$v==""' then \
   reshape -s i,v then \
   sort -n cod_cand,lista,num_lista,cod_lista then \
-  unsparsify>"$folder"/processing/"$nome"_coalizioni.csv
+  unsparsify then clean-whitespace>"$folder"/processing/"$nome"_coalizioni.csv
 done
