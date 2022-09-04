@@ -38,3 +38,15 @@ mlr --c2j filter '$type=="programma" && $url!=~"dait" && $url=~"pdf" && $slug=~"
   mkdir -p "$folder"/programmi/no-ministero/"$list_id"/
   curl -H -kL 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36' "$url" >"$folder"/programmi/no-ministero/"$list_id"/"$slug".pdf
 done
+
+# cancella, se esiste, file con i metadati sui PDF
+if [ -f "$folder"/programmi/no-ministero/info-meta.jsonl ]; then
+  rm "$folder"/programmi/no-ministero/info-meta.jsonl
+fi
+
+find "$folder"/programmi/no-ministero -iname "*.pdf" | while read line; do
+  righe=$(pdftotext "$line" - | wc -l)
+  exiftool -n -csv "$line" | mlr --c2j put '$righe='"$righe"';$SourceFile=sub($SourceFile,".+/","")' then cut -x -f ExifToolVersion,Directory,FileModifyDate,FileAccessDate,FileInodeChangeDate >>"$folder"/programmi/no-ministero/info-meta.jsonl
+done
+
+mlr --j2c cut -f FileName,FileSize,FileType,FileTypeExtension,MIMEType,PDFVersion,Linearized,CreateDate,Creator,ModifyDate,XMPToolkit,CreatorTool,MetadataDate,Producer,Format,PageCount,righe,Conformance,Title,Author then unsparsify "$folder"/programmi/no-ministero/info-meta.jsonl >"$folder"/programmi/no-ministero/info-meta.csv
