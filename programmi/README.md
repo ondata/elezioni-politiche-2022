@@ -72,6 +72,12 @@ La pagina di partenza è [questa](https://www.documentcloud.org/app?q=%2Btag%3A%
 
 Qui il [file di anagrafica](processing/anagrafica.csv) informativa sui programmi (i dettagli al momento sono presenti soltanto su quelli in formato PDF).
 
+---
+
+⚠️**NOTA BENE**: alcune ricerche di testo sui PDF del sito del Ministero non funzionano in modo ottimale, perché spesso erano composti da sole immagini e non da testo. È stato applicato l'`OCR`, per abilitare la ricerca testuale.
+
+---
+
 ## Considerazioni
 
 È un bruttissimo segnale che il **75% dei programmi** consegnati da partiti, movimenti o gruppi politici al Ministero dell'Interno non abbiamo **il testo leggibile**.<br>
