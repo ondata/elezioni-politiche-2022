@@ -20,14 +20,42 @@ L'[articolo 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-1
 
 ## Cosa abbiamo fatto
 
+### Anagrafica dei documenti 🖋️
+
 L'anagrafica dei documenti presentati dai partiti (movimenti o gruppi politici), oltre a essere visibile nel [sito dedicato](https://dait.interno.gov.it/elezioni/trasparenza/elezioni-politiche-2022), è disponibile anche in formato leggibile meccanicamente (`JSON`) presso questo indirizzo:<br>
 <https://dait.interno.gov.it/documenti/trasparenza/POLITICHE_20220925/POLITICHE_20220925.json>
 
 Avere una fonte unica è molto comodo, ad esempio, per tutte le persone che vogliono leggere e analizzare i vari programmi, per chi vuole creare degli spazi e dei servizi informativi su questa tornata elettorale.
 
-Noi - per il momento - abbiamo voluto scaricare tutti i programmi disponibili, per leggerne alcune delle caratteristiche intrinseche (il rispetto dell'accessibilità, il formato, il numero di pagine, ecc.),
+Noi - per il momento - abbiamo voluto scaricare tutti i programmi disponibili, per leggerne alcune delle caratteristiche intrinseche (il rispetto dell'accessibilità, il formato, il numero di pagine, ecc.).
 
-## Note sui programmi
+### Motore di ricerca dei programmi 🔍
+
+È possibile fare ricerche testuali sui file dei programmi caricati sul sito del Ministero dell'Interno, a partire da questa pagina
+<https://www.documentcloud.org/app?q=%2Btag%3A%22Ministero%22%20%20%2Bproject%3Aelezioni-politiche-2022---209511>.
+
+Basterà aggiungere del testo al campo di ricerca presente. Ad esempio:
+
+- [`"crisi energetica"`](https://www.documentcloud.org/app?q=%2Btag%3A%22Ministero%22%20%20%2Bproject%3Aelezioni-politiche-2022---209511%20%22crisi%20energetica%22) (come nell'immagine di sotto), troverà tutti i documenti in cui le due parole sono entrambe presenti, una dopo l'altra. È importante in questo caso l'uso delle virgolette `"` in cui racchiudere le due parole;
+- [`scuola AND inclusione`](https://www.documentcloud.org/app?q=%2Btag%3A%22Ministero%22%20%20%2Bproject%3Aelezioni-politiche-2022---209511%20scuola%20AND%20inclusione), per tutti i programmi in cui sono presenti sia la parola `scuola`, che `inclusione`. Qui c'è da fare attenzione al maiuscolo di `AND`;
+- [`"scuola inclusione"~10`](https://www.documentcloud.org/app?q=%2Btag%3A%22Ministero%22%20%20%2Bproject%3Aelezioni-politiche-2022---209511%20%22scuola%20inclusione%22~10), per avere tutti i documenti in cui la parola `scuola` e la parola `inclusione` non distano tra loro più di 10 parole. È il carattere `~` seguito da `10`, dopo le due parole tra `"`, che imposta la distanza in parole.
+
+Si possono fare diversi altri tipi di ricerca, con altri parametri. Qui la [📖documentazione](https://www.documentcloud.org/help/search).
+
+[![](imgs/document-cloud.png)](https://www.documentcloud.org/app?q=%2Btag%3A%22Ministero%22%20%20%2Bproject%3Aelezioni-politiche-2022---209511)
+
+È possibile anche utilizzare le API di DocumentCloud ([❓guida](https://www.documentcloud.org/help/api)), per avere restituito l'esito delle ricerche in formato `JSON`.<b>
+Per `"crisi energetica"` tramite API l'URL da chiamare sarà [questo](https://api.www.documentcloud.org/api/documents/search/?format=json&hl=true&q=%2Btag%3A%22Ministero%22%20%20%2Bproject%3Aelezioni-politiche-2022---209511%20%22crisi%20energetica%22), composto da:
+
+- `https://api.www.documentcloud.org/api/documents/search/`, l'URL base;
+- `?format=json`, per impostare il formato di output;
+- `&hl=true`, per avere restituito la parte del testo dove appare la stringa cercata;
+- `&q=%2Btag%3A%22Ministero%22%20%20%2Bproject%3Aelezioni-politiche-2022---209511%20%22crisi%20energetica%22`, che è la vera e propria *query*, con la codifica delle stringhe `+tag:"Ministero"  +project:elezioni-politiche-2022---209511 "crisi energetica"`.
+
+È possibile anche fare ricerche sulle versioni dei programmi che i partiti (movimenti o gruppi politici) hanno depositato sui loro spazi di comunicazione. Spesso questi ultimi sono diversi da quelli disponibili sul sito del ministero.<br>
+La pagina di partenza è [questa](https://www.documentcloud.org/app?q=%2Btag%3A%22No+Ministero%22++%2Bproject%3Aelezioni-politiche-2022---209511+), con il tag `No Ministero`.
+
+## Note sull'anagrafica dei programmi
 
 - **35** i **partiti** (movimenti o gruppi politici) in elenco;
 - **31** i **programmi** disponibili. Al 2 settembre 2022 non è presente un programma per:
