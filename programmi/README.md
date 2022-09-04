@@ -44,7 +44,7 @@ Si possono fare diversi altri tipi di ricerca, con altri parametri. Qui la [📖
 
 [![](imgs/document-cloud.png)](https://www.documentcloud.org/app?q=%2Btag%3A%22Ministero%22%20%20%2Bproject%3Aelezioni-politiche-2022---209511)
 
-È possibile anche utilizzare le API di DocumentCloud ([❓guida](https://www.documentcloud.org/help/api)), per avere restituito l'esito delle ricerche in formato `JSON`.<b>
+È possibile anche utilizzare le API di DocumentCloud ([❓guida](https://www.documentcloud.org/help/api)), per avere restituito l'esito delle ricerche in formato `JSON`.<br>
 Per `"crisi energetica"` tramite API l'URL da chiamare sarà [questo](https://api.www.documentcloud.org/api/documents/search/?format=json&hl=true&q=%2Btag%3A%22Ministero%22%20%20%2Bproject%3Aelezioni-politiche-2022---209511%20%22crisi%20energetica%22), composto da:
 
 - `https://api.www.documentcloud.org/api/documents/search/`, l'URL base;
