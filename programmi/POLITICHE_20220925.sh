@@ -33,7 +33,7 @@ if [ -f "$folder"/processing/info-meta.jsonl ]; then
 fi
 
 # scarica i PDF ed estraine i metadati
-mlr <processing/POLITICHE_20220925_programmi.csv --c2j cut -f n_ord,f_doc | while read line; do
+mlr <"$folder"/processing/POLITICHE_20220925_programmi.csv --c2j cut -f n_ord,f_doc | while read line; do
   numero=$(echo $line | jq -r '.n_ord')
   file=$(echo $line | jq -r '.f_doc')
   filename=$(basename -- "$file")
