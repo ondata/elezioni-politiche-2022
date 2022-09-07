@@ -72,6 +72,12 @@ Per `"crisi energetica"` tramite API l'URL da chiamare sarà [questo](https://ap
 
 Una delle fonti dei programmi non ministeriali è [indecis.it](https://github.com/indecis-it/data).
 
+---
+
+⚠️**NOTA BENE**: alcune ricerche di testo sui PDF del sito del Ministero non funzionano in modo ottimale, perché spesso erano composti da sole immagini e non da testo. È stato applicato l'`OCR`, per abilitare la ricerca testuale.
+
+---
+
 ## Note sull'anagrafica dei programmi
 
 - **35** i **partiti** (movimenti o gruppi politici) in elenco;
@@ -89,11 +95,7 @@ Una delle fonti dei programmi non ministeriali è [indecis.it](https://github.co
 
 Qui il [file di anagrafica](processing/anagrafica.csv) informativa sui programmi (i dettagli al momento sono presenti soltanto su quelli in formato PDF).
 
----
 
-⚠️**NOTA BENE**: alcune ricerche di testo sui PDF del sito del Ministero non funzionano in modo ottimale, perché spesso erano composti da sole immagini e non da testo. È stato applicato l'`OCR`, per abilitare la ricerca testuale.
-
----
 
 ## Considerazioni
 
