@@ -61,7 +61,7 @@ Per `"crisi energetica"` tramite API l'URL da chiamare sarà [questo](https://ap
 - `&q=%2Btag%3A%22Ministero%22%20%20%2Bproject%3Aelezioni-politiche-2022---209511%20%22crisi%20energetica%22`, che è la vera e propria *query*, con la codifica delle stringhe `+tag:"Ministero"  +project:elezioni-politiche-2022---209511 "crisi energetica"`.
 
 È possibile anche fare ricerche sulle versioni dei programmi che i partiti (movimenti o gruppi politici) hanno depositato sui loro spazi di comunicazione. Spesso questi ultimi sono diversi da quelli disponibili sul sito del ministero.<br>
-La pagina di partenza è [questa](https://www.documentcloud.org/app?q=%2Btag%3A%22No+Ministero%22++%2Bproject%3Aelezioni-politiche-2022---209511+), con il tag `No Ministero`.
+La pagina di partenza è [questa](https://www.documentcloud.org/app?q=%2Btag%3A%22No%20Ministero%22%20%20%2Bproject%3Aelezioni-politiche-2022---209511%20), con il tag **`No Ministero`**.
 
 ## Note sull'anagrafica dei programmi
 
