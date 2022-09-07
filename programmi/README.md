@@ -5,6 +5,8 @@
   - [Cosa abbiamo fatto](#cosa-abbiamo-fatto)
     - [Anagrafica dei documenti 🖋️](#anagrafica-dei-documenti-️)
     - [Motore di ricerca dei programmi 🔍](#motore-di-ricerca-dei-programmi-)
+      - [I programmi consegnati al Ministero](#i-programmi-consegnati-al-ministero)
+      - [I programmi presenti sui siti dei partiti](#i-programmi-presenti-sui-siti-dei-partiti)
   - [Note sull'anagrafica dei programmi](#note-sullanagrafica-dei-programmi)
   - [Considerazioni](#considerazioni)
 
@@ -39,6 +41,8 @@ Noi - per il momento - abbiamo voluto scaricare tutti i programmi disponibili, p
 
 ### Motore di ricerca dei programmi 🔍
 
+#### I programmi consegnati al Ministero
+
 È possibile fare ricerche testuali sui file dei programmi caricati sul sito del Ministero dell'Interno, a partire da questa pagina
 <https://www.documentcloud.org/app?q=%2Btag%3A%22Ministero%22%20%20%2Bproject%3Aelezioni-politiche-2022---209511>.
 
@@ -60,7 +64,10 @@ Per `"crisi energetica"` tramite API l'URL da chiamare sarà [questo](https://ap
 - `&hl=true`, per avere restituito la parte del testo dove appare la stringa cercata;
 - `&q=%2Btag%3A%22Ministero%22%20%20%2Bproject%3Aelezioni-politiche-2022---209511%20%22crisi%20energetica%22`, che è la vera e propria *query*, con la codifica delle stringhe `+tag:"Ministero"  +project:elezioni-politiche-2022---209511 "crisi energetica"`.
 
-È possibile anche fare ricerche sulle versioni dei programmi che i partiti (movimenti o gruppi politici) hanno depositato sui loro spazi di comunicazione. Spesso questi ultimi sono diversi da quelli disponibili sul sito del ministero.<br>
+#### I programmi presenti sui siti dei partiti
+
+È possibile anche fare ricerche sulle versioni dei programmi che i partiti (movimenti o gruppi politici) hanno depositato sui loro spazi di comunicazione. Spesso questi ultimi sono diversi da quelli disponibili sul sito del ministero.
+
 La pagina di partenza è [questa](https://www.documentcloud.org/app?q=%2Btag%3A%22No%20Ministero%22%20%20%2Bproject%3Aelezioni-politiche-2022---209511%20), con il tag **`No Ministero`**.
 
 ## Note sull'anagrafica dei programmi
