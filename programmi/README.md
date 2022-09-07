@@ -66,7 +66,7 @@ Per `"crisi energetica"` tramite API l'URL da chiamare sarà [questo](https://ap
 
 ---
 
-⚠️**NOTA BENE**: alcune ricerche di testo sui PDF del sito del Ministero non funzionano in modo ottimale, perché spesso erano composti da sole immagini e non da testo. È stato applicato l'`OCR`, per abilitare la ricerca testuale.
+⚠️**NOTA BENE**: alcune ricerche di testo sui PDF del sito del Ministero non funzionano in modo ottimale, perché spesso erano composti da sole immagini e non da testo. È stato applicato l'`OCR`, per abilitare la ricerca testuale, che non sempre ha prodotto risultati ottimali.
 
 ---
 
