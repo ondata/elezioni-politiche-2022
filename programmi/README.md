@@ -64,6 +64,12 @@ Per `"crisi energetica"` tramite API l'URL da chiamare sarà [questo](https://ap
 - `&hl=true`, per avere restituito la parte del testo dove appare la stringa cercata;
 - `&q=%2Btag%3A%22Ministero%22%20%20%2Bproject%3Aelezioni-politiche-2022---209511%20%22crisi%20energetica%22`, che è la vera e propria *query*, con la codifica delle stringhe `+tag:"Ministero"  +project:elezioni-politiche-2022---209511 "crisi energetica"`.
 
+---
+
+⚠️**NOTA BENE**: alcune ricerche di testo sui PDF del sito del Ministero non funzionano in modo ottimale, perché spesso erano composti da sole immagini e non da testo. È stato applicato l'`OCR`, per abilitare la ricerca testuale.
+
+---
+
 #### I programmi presenti sui siti dei partiti
 
 È possibile anche fare ricerche sulle versioni dei programmi che i partiti (movimenti o gruppi politici) hanno reso disponibili sui loro spazi di comunicazione. Spesso queste versioni dei programmi sono diverse da quelle disponibili sul sito del ministero.
@@ -72,11 +78,6 @@ Per `"crisi energetica"` tramite API l'URL da chiamare sarà [questo](https://ap
 
 Una delle fonti dei programmi non ministeriali è [indecis.it](https://github.com/indecis-it/data).
 
----
-
-⚠️**NOTA BENE**: alcune ricerche di testo sui PDF del sito del Ministero non funzionano in modo ottimale, perché spesso erano composti da sole immagini e non da testo. È stato applicato l'`OCR`, per abilitare la ricerca testuale.
-
----
 
 ## Note sull'anagrafica dei programmi
 
