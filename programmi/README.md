@@ -70,7 +70,7 @@ Per `"crisi energetica"` tramite API l'URL da chiamare sarà [questo](https://ap
 
 ➡️ La pagina di partenza è [questa](https://www.documentcloud.org/app?q=%2Btag%3A%22No%20Ministero%22%20%20%2Bproject%3Aelezioni-politiche-2022---209511%20), con il tag **`No Ministero`**.
 
-ℹ️: una delle fonti dei programmi non ministeriali è [indecis.it](https://github.com/indecis-it/data).
+Una delle fonti dei programmi non ministeriali è [indecis.it](https://github.com/indecis-it/data).
 
 ## Note sull'anagrafica dei programmi
 
