@@ -66,7 +66,7 @@ Per `"crisi energetica"` tramite API l'URL da chiamare sarà [questo](https://ap
 
 #### I programmi presenti sui siti dei partiti
 
-È possibile anche fare ricerche sulle versioni dei programmi che i partiti (movimenti o gruppi politici) hanno depositato sui loro spazi di comunicazione. Spesso questi ultimi sono diversi da quelli disponibili sul sito del ministero.
+È possibile anche fare ricerche sulle versioni dei programmi che i partiti (movimenti o gruppi politici) hanno reso disponibili sui loro spazi di comunicazione. Spesso queste versioni dei programmi sono diverse da quelle disponibili sul sito del ministero.
 
 La pagina di partenza è [questa](https://www.documentcloud.org/app?q=%2Btag%3A%22No%20Ministero%22%20%20%2Bproject%3Aelezioni-politiche-2022---209511%20), con il tag **`No Ministero`**.
 
