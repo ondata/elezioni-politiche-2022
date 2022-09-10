@@ -59,3 +59,8 @@ CU20_C1  U01
 ```
 Il Ministero degli Interni o Istat dovrebbero pubblicare una "stele di Rosetta", per poter facilmente associare le anagrafiche di sopra ai dati geografici.<br>
 O almeno fare in modo che i campi `desc_ente` (Ministero) e `CU20_DEN` (Istat) abbiano contenuti coerenti per ogni collegio.
+
+
+## Se vuoi usare questi dati
+
+Se vuoi usarli, per favore aggiungi la nota (con il *link*) "da un progetto di [onData](https://github.com/ondata/elezioni-politiche-2022)". Grazie
