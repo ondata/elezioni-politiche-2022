@@ -100,7 +100,7 @@ Qui il [file di anagrafica](processing/anagrafica.csv) informativa sui programmi
 
 ## Considerazioni
 
-È un bruttissimo segnale che il **75% dei programmi** consegnati da partiti, movimenti o gruppi politici al Ministero dell'Interno non abbiamo **il testo leggibile**.<br>
+È un bruttissimo segnale che il **75% dei programmi** consegnati da partiti, movimenti o gruppi politici al Ministero dell'Interno non abbiano **il testo leggibile**.<br>
 Sia dal lato di chi consegna, sia dal lato di chi riceve, che dovrebbe pretendere dei documenti senza alcuna barriera, garantendo l'**accessibilità**, nel rispetto dei [diritti di cittadinanza digitali](https://ondata.github.io/guida-diritti-cittadinanza-digitali/parte-seconda/accessibilita/).
 
 **Alcuni** dei **programmi** pubblicati sul sito del Ministero, **sono già vecchi** e **abbondantemente superati**.<br>Un esempio per tutti quello del partito "LEGA PER SALVINI PREMIER": il file [sul sito del Ministero](https://dait.interno.gov.it/documenti/trasparenza/POLITICHE_20220925/Documenti/9/(9_progr_2_)-lega_per_salvini_premier.programma.pdf) è composto da **circa 15 pagine**, quello pubblicato [sul sito del partito](https://static.legaonline.it/files/Programma_Lega_2022.pdf) da **circa 200**.
