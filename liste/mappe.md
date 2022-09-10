@@ -31,7 +31,7 @@ Nella nuvola informativa:
 
 ## Con quali dati sono state costruite
 
-Incrociando i dati che abbiamo estratto dal sito del Ministero dell'Interno e [le basi geografiche dei collegi elettorali](https://www.istat.it/it/archivio/273443) pubblicate da Istat.
+Quelli che abbiamo estratto dal sito del **Ministero dell'Interno**, insieme alle [le basi geografiche dei collegi elettorali](https://www.istat.it/it/archivio/273443) pubblicate da **Istat**.
 
 ## Credits
 
