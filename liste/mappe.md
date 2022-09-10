@@ -36,3 +36,7 @@ Quelli che abbiamo estratto dal sito del **Ministero dell'Interno**, insieme all
 ## Credits
 
 Queste mappe sono state costruite dal "nostro" [Guenter Richter](https://twitter.com/grichter), con il suo iXMaps.
+
+## Se vuoi usare queste mappe
+
+Se vuoi inserirle in una tua pubblicazione, se vuoi *linkarle* o *embeddarle*, per favore aggiungi la nota (con il *link*) "un progetto di [onData](https://github.com/ondata/elezioni-politiche-2022)". Grazie
