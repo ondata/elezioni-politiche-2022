@@ -17,7 +17,7 @@ Un volta aperta una delle mappe potrai (vedi immagine a seguire):
 1. fare *click* sul colleggio di tuo interesse;
 2. avere restituito le informazioni su quel collegio.
 
-Nella nuvola informativa:
+E poi nella nuvola informativa:
 
 1. Il **nome** del **collegio**
 2. l'**elenco** di **candidate** e **candidati**, con la **distinzione** cromatica per **sesso**;
