@@ -75,7 +75,7 @@ E poi nella nuvola informativa:
 
 Quelli che abbiamo estratto dal sito del **Ministero dell'Interno**, insieme alle [basi geografiche dei collegi elettorali](https://www.istat.it/it/archivio/273443) pubblicate da **Istat**.
 
-Qui [altri dettagli](mappe.md).
+ℹ️ Qui [**altri dettagli**](mappe.md).
 
 ### Credits
 
