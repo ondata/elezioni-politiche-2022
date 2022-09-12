@@ -1,4 +1,4 @@
-# Le 🗺️ mappe per sapere per chi puoi votare?
+## Le 🗺️ mappe per sapere per chi puoi votare?
 
 Abbiamo creato le **mappe** che al _**click**_ sui poligoni dei collegi elettorali, restituiscono l'**elenco di candidate e candidati di quel collegio**.
 
@@ -29,14 +29,14 @@ E poi nella nuvola informativa:
 ![](imgs/mappa-liste.png)
 
 
-## Con quali dati sono state costruite
+### Con quali dati sono state costruite
 
 Quelli che abbiamo estratto dal sito del **Ministero dell'Interno**, insieme [le basi geografiche dei collegi elettorali](https://www.istat.it/it/archivio/273443) pubblicate da **Istat**.
 
-## Credits
+### Credits
 
 Queste mappe sono state costruite dal "nostro" [Guenter Richter](https://twitter.com/grichter), con il suo iXMaps.
 
-## Se vuoi usare queste mappe
+### Se vuoi usare queste mappe
 
 Se vuoi inserirle in una tua pubblicazione, se vuoi *linkarle* o *embeddarle*, per favore aggiungi la nota (con il *link*) "un progetto di [onData](https://github.com/ondata/elezioni-politiche-2022)". Grazie
