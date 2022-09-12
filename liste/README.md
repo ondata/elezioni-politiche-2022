@@ -66,7 +66,7 @@ E poi nella nuvola informativa:
 2. l'**elenco** di **candidate** e **candidati**, con la **distinzione** cromatica per **sesso**;
 3. il **nome** di candidata/o - su cui potrai fare click per fare una ricerca su quel nome - e i **relativi partiti** (movimenti o gruppi politici);
 4. il **numero totale** di candidate e candidati;
-5. l'**età media** di di candidate e candidati.
+5. l'**età media** di candidate e candidati.
 
 
 ![](imgs/mappa-liste.png)
