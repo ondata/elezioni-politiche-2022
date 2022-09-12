@@ -75,6 +75,8 @@ E poi nella nuvola informativa:
 
 Quelli che abbiamo estratto dal sito del **Ministero dell'Interno**, insieme alle [basi geografiche dei collegi elettorali](https://www.istat.it/it/archivio/273443) pubblicate da **Istat**.
 
+Qui [altri dettagli](mappe.md).
+
 ### Credits
 
 Queste mappe sono state costruite dal "nostro" [Guenter Richter](https://twitter.com/grichter), con il suo iXMaps.

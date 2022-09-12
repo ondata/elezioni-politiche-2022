@@ -1,42 +1,21 @@
-## Le 🗺️ mappe per sapere per chi puoi votare?
+## Come sono state costruite le mappe
 
-Abbiamo creato le **mappe** che al _**click**_ sui poligoni dei collegi elettorali, restituiscono l'**elenco di candidate e candidati di quel collegio**.
+Per potere costruire [queste mappe](README.md#le-🗺️-mappe-per-sapere-per-chi-puoi-votare), era necessario poter fare il `JOIN` tra le [basi geografiche dei collegi elettorali](https://www.istat.it/it/archivio/273443) pubblicate da **Istat**, e i [dati sulle liste](processing) che abbiamo estratto dal sito del Ministero dell'Interno.
 
-Queste **le 4 mappe disponibili** (⚠️ solo da *desktop*, non da mobile):
+Abbiamo reso disponibili dei file CSV per poter fare questo `JOIN` nella cartella [`geo`](processing/geo/):
 
-- **Collegi uninominali**
-  - [🗺️ Camera dei Deputati](https://gjrichter.github.io/ixmaps/ui/dispatch.htm?ui=view&basemap=ll&legend=1&project=https://raw.githubusercontent.com/gjrichter/viz/master/Elezioni/Politiche/2022/ixmaps_project_CAMERA_CollegiUNINOMINALI_2020_candidati_poligoni_coalizioni.json)
-  - [🗺️ Senato della Repubblica](https://gjrichter.github.io/ixmaps/ui/dispatch.htm?ui=view&basemap=ll&legend=1&project=https://raw.githubusercontent.com/gjrichter/viz/master/Elezioni/Politiche/2022/ixmaps_project_SENATO_CollegiUNINOMINALI_2020_candidati_poligoni_coalizioni.json)
-- **Collegi plurinominali**
-  - [🗺️ Camera dei Deputati](https://gjrichter.github.io/ixmaps/ui/dispatch.htm?ui=view&basemap=ll&legend=1&project=https://raw.githubusercontent.com/gjrichter/viz/master/Elezioni/Politiche/2022/ixmaps_project_CAMERA_CollegiPLURINOMINALI_2020_candidati_poligoni.json)
-  - [🗺️ Senato della Repubblica](https://gjrichter.github.io/ixmaps/ui/dispatch.htm?ui=view&basemap=ll&legend=1&project=https://raw.githubusercontent.com/gjrichter/viz/master/Elezioni/Politiche/2022/ixmaps_project_SENATO_CollegiPLURINOMINALI_2020_candidati_poligoni.json)
+- [`liste_Camera_Plurinominale_MinisteroInterno-ISTAT.csv`](processing/geo/liste_Camera_Plurinominale_MinisteroInterno-ISTAT.csv)
+- [`liste_Camera_Uninominale_MinisteroInterno-ISTAT.csv`](processing/geo/liste_Camera_Uninominale_MinisteroInterno-ISTAT.csv)
+- [`liste_Senato_Plurinominale_MinisteroInterno-ISTAT.csv`](processing/geo/liste_Senato_Plurinominale_MinisteroInterno-ISTAT.csv)
+- [`liste_Senato_Uninominale_MinisteroInterno-ISTAT.csv`](processing/geo/liste_Senato_Uninominale_MinisteroInterno-ISTAT.csv)
 
-
-Un volta aperta una delle mappe potrai (vedi immagine a seguire):
-
-1. fare *click* sul colleggio di tuo interesse;
-2. avere restituito le informazioni su quel collegio.
-
-E poi nella nuvola informativa:
-
-1. Il **nome** del **collegio**
-2. l'**elenco** di **candidate** e **candidati**, con la **distinzione** cromatica per **sesso**;
-3. il **nome** di candidata/o - su cui potrai fare click per fare una ricerca su quel nome - e i **relativi partiti** (movimenti o gruppi politici);
-4. il **numero totale** di candidate e candidati;
-5. l'**età media** di di candidate e candidati.
+Hanno tutti una struttura come quella sottostante in cui `desc_ente` e `cod_ente`, sono dei campi presenti tra i dati delle liste pubblicati sul sito del Ministero dell'Interno, mentre `CU20_COD` è il campo corrispondente nei file geografici Istat.
 
 
-![](imgs/mappa-liste.png)
-
-
-### Con quali dati sono state costruite
-
-Quelli che abbiamo estratto dal sito del **Ministero dell'Interno**, insieme [le basi geografiche dei collegi elettorali](https://www.istat.it/it/archivio/273443) pubblicate da **Istat**.
-
-### Credits
-
-Queste mappe sono state costruite dal "nostro" [Guenter Richter](https://twitter.com/grichter), con il suo iXMaps.
-
-### Se vuoi usare queste mappe
-
-Se vuoi inserirle in una tua pubblicazione, se vuoi *linkarle* o *embeddarle*, per favore aggiungi la nota (con il *link*) "un progetto di [onData](https://github.com/ondata/elezioni-politiche-2022)". Grazie
+| CU20_COD | desc_ente | cod_ente |
+| --- | --- | --- |
+| 10101 | PIEMONTE 1 - U01 | CU0111 |
+| 10102 | PIEMONTE 1 - U02 | CU0112 |
+| 10103 | PIEMONTE 1 - U03 | CU0113 |
+| 10104 | PIEMONTE 1 - U04 | CU0121 |
+| 10105 | PIEMONTE 1 - U05 | CU0122 |
