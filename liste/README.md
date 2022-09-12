@@ -45,7 +45,7 @@ Da questi sono state estratte le anagrafiche di candidate e candidati in formato
 
 Abbiamo creato le **mappe** che al _**click**_ sui poligoni dei collegi elettorali, restituiscono l'**elenco di candidate e candidati di quel collegio**.
 
-Queste **le 4 mappe disponibili** (⚠️ solo da *desktop*, non da mobile):
+Queste **le 4 mappe disponibili** (⚠️ **usabili soltanto da _desktop_**, non da mobile):
 
 - **Collegi uninominali**
   - [🗺️ Camera dei Deputati](https://gjrichter.github.io/ixmaps/ui/dispatch.htm?ui=view&basemap=ll&legend=1&project=https://raw.githubusercontent.com/gjrichter/viz/master/Elezioni/Politiche/2022/ixmaps_project_CAMERA_CollegiUNINOMINALI_2020_candidati_poligoni_coalizioni.json)
