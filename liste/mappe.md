@@ -1,6 +1,6 @@
 ## Come sono state costruite le mappe
 
-Per potere costruire [queste mappe](README.md#le-🗺️-mappe-per-sapere-per-chi-puoi-votare), era necessario poter fare il `JOIN` tra le [basi geografiche dei collegi elettorali](https://www.istat.it/it/archivio/273443) pubblicate da **Istat**, e i [dati sulle liste](processing) che abbiamo estratto dal sito del Ministero dell'Interno.
+Per potere costruire [queste mappe](README.md#le-%EF%B8%8F-mappe-per-sapere-per-chi-puoi-votare), era necessario poter fare il `JOIN` tra le [basi geografiche dei collegi elettorali](https://www.istat.it/it/archivio/273443) pubblicate da **Istat**, e i [dati sulle liste](processing) che abbiamo estratto dal sito del Ministero dell'Interno.
 
 Abbiamo reso disponibili dei file CSV per poter fare questo `JOIN` nella cartella [`geo`](processing/geo/):
 
