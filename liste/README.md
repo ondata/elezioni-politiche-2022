@@ -73,7 +73,7 @@ E poi nella nuvola informativa:
 
 ### Con quali dati sono state costruite
 
-Quelli che abbiamo estratto dal sito del **Ministero dell'Interno**, insieme [le basi geografiche dei collegi elettorali](https://www.istat.it/it/archivio/273443) pubblicate da **Istat**.
+Quelli che abbiamo estratto dal sito del **Ministero dell'Interno**, insieme alle [basi geografiche dei collegi elettorali](https://www.istat.it/it/archivio/273443) pubblicate da **Istat**.
 
 ### Credits
 
