@@ -14,5 +14,6 @@ In questo repository stiamo raccogliendo alcune informazioni utili correlate:
 - Damiano Sabuzi Giuliani, su Ghigliottina: "[Verso il voto del 25 settembre: i programmi e i candidati](https://www.ghigliottina.info/2022/09/08/voto-25-settembre-programmi-candidati/)":
 - Marilena Pintagro, "[Trova Candidato](https://trovacandidato2022.surge.sh/)";
 - Damiano Sabuzi Giuliani, Andrea Borruso e Guenter Richter, "[Verso il voto del 25 settembre: un recap di tutto quello che c’è da sapere](https://www.ghigliottina.info/2022/09/15/verso-il-voto-del-25-settembre-recap/)";
-- Alberto Puliafito, "[Italian elections – a case study for saving time and money in newsrooms](https://thefix.media/2022/9/19/italian-elections-a-case-of-study-for-saving-time-and-money-in-newsrooms)".
+- Alberto Puliafito, "[Italian elections – a case study for saving time and money in newsrooms](https://thefix.media/2022/9/19/italian-elections-a-case-of-study-for-saving-time-and-money-in-newsrooms)";
+- Guenter Richter e Davide Del Monte, "[🗺️ Le mappe dei collegi elettorali e i dati sul genere](https://www.ondata.it/le-mappe-dei-collegi-elettorali-e-i-dati-sul-genere/)".
 
