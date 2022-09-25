@@ -5,7 +5,17 @@ Il **25 settembre 2022** si svolgeranno le **elezioni politiche**.
 In questo repository stiamo raccogliendo alcune informazioni utili correlate:
 
 - sui [**programmi**](programmi/README.md);
-- sulle [**liste**](liste/README.md).
+- sulle [**liste**](liste/README.md);
+- su [affluenza e risultati](affluenza-risultati/README.md).
+
+# Se vuoi usare questi dati
+
+Se vuoi farlo, per favore aggiungi la nota (con il *link*) "da un progetto di [onData](https://github.com/ondata/elezioni-politiche-2022)".
+
+Se vuoi [**sostenerci**](https://ondata.it/dona/), qui le modalità per farlo.
+
+Grazie.
+
 
 ## Sitografia correlata
 
