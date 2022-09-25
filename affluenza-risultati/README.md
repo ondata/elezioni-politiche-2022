@@ -4,6 +4,8 @@
 
 In questa sezione raccoglieremo i dati elettorali estratti da [Eligendo](https://elezioni.interno.gov.it/camera/votanti/20220925/votantiCI), il sito del Ministero dell'Interno, dedicato alle elezioni.
 
+In [questo file di LOG](LOG.md), le note con eventuali modifiche che verranno fatte.
+
 ⚠ **️NOTA BENE**: non possiamo garantire a priori di riuscirci, perché le modalità di accesso a questi dati non sono documentate, e potrebbero essere modificate o disabilitate in queste ore.
 
 # Se vuoi usare questi dati
