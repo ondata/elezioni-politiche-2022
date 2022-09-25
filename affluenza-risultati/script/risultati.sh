@@ -36,7 +36,7 @@ curl 'https://eleapi.interno.gov.it/siel/PX/scrutiniCI/DE/20220925/TE/02' \
 jq <"$folder"/rawdata/camera-italia.json '.cand[]' | mlr --j2c unsparsify >"$folder"/processing/camera-italia.csv
 jq <"$folder"/rawdata/camera-italia.json '.int' | mlr --j2c unsparsify >"$folder"/processing/camera-italia_info.csv
 
-mlr -I --csv reshape -r ":" -o i,v then filter -S -x '$v==""' then put '$l_pos=regextract($i,"[0-9]+");$i=sub($i,".+:","")' then rename pos,r_pos then reshape -s i,v then sort -n r_pos,l_pos "$folder"/processing/camera-italia.csv
+mlr -I --csv reshape -r ":" -o i,v then filter -S -x '$v==""' then put '$l_pos=regextract($i,"[0-9]+");$i=sub($i,".+:","")' then rename pos,r_pos then reshape -s i,v then sort -n r_pos,l_pos then put -S '$perc=sub($perc,",",".")' "$folder"/processing/camera-italia.csv
 
 mv "$folder"/processing/camera-italia.csv "$folder"/../dati/risultati/camera-italia.csv
 mv "$folder"/processing/camera-italia_info.csv "$folder"/../dati/risultati/camera-italia_info.csv
@@ -64,7 +64,7 @@ curl 'https://eleapi.interno.gov.it/siel/PX/scrutiniSI/DE/20220925/TE/03' \
 jq <"$folder"/rawdata/senato-italia.json '.cand[]' | mlr --j2c unsparsify >"$folder"/processing/senato-italia.csv
 jq <"$folder"/rawdata/senato-italia.json '.int' | mlr --j2c unsparsify >"$folder"/processing/senato-italia_info.csv
 
-mlr -I --csv reshape -r ":" -o i,v then filter -S -x '$v==""' then put '$l_pos=regextract($i,"[0-9]+");$i=sub($i,".+:","")' then rename pos,r_pos then reshape -s i,v then sort -n r_pos,l_pos "$folder"/processing/senato-italia.csv
+mlr -I --csv reshape -r ":" -o i,v then filter -S -x '$v==""' then put '$l_pos=regextract($i,"[0-9]+");$i=sub($i,".+:","")' then rename pos,r_pos then reshape -s i,v then sort -n r_pos,l_pos then put -S '$perc=sub($perc,",",".")' "$folder"/processing/senato-italia.csv
 
 mv "$folder"/processing/senato-italia.csv "$folder"/../dati/risultati/senato-italia.csv
 mv "$folder"/processing/senato-italia_info.csv "$folder"/../dati/risultati/senato-italia_info.csv
@@ -99,7 +99,7 @@ done <"$folder"/processing/camera_circoscrizioni.tsv
 mlr --csv unsparsify "$folder"/processing/camera-italia-circoscrizione_*.csv >"$folder"/processing/camera-italia-circoscrizione.csv
 mlr -I --csv reorder -f CR "$folder"/processing/camera-italia-circoscrizione.csv
 
-mlr -I --csv cat then reshape -r ":" -o i,v then filter -S -x '$v==""' then put '$l_pos=regextract($i,"[0-9]+");$i=sub($i,".+:","")' then rename pos,r_pos then reshape -s i,v then sort -n CR,r_pos,l_pos "$folder"/processing/camera-italia-circoscrizione.csv
+mlr -I --csv cat then reshape -r ":" -o i,v then filter -S -x '$v==""' then put '$l_pos=regextract($i,"[0-9]+");$i=sub($i,".+:","")' then rename pos,r_pos then reshape -s i,v then sort -n CR,r_pos,l_pos then put -S '$perc=sub($perc,",",".")' "$folder"/processing/camera-italia-circoscrizione.csv
 
 mv "$folder"/processing/camera-italia-circoscrizione.csv "$folder"/../dati/risultati/camera-italia-circoscrizione.csv
 
@@ -133,7 +133,7 @@ done <"$folder"/processing/senato_circoscrizioni.tsv
 mlr --csv unsparsify "$folder"/processing/senato-italia-circoscrizione_*.csv >"$folder"/processing/senato-italia-circoscrizione.csv
 mlr -I --csv reorder -f CR "$folder"/processing/senato-italia-circoscrizione.csv
 
-mlr -I --csv cat then reshape -r ":" -o i,v then filter -S -x '$v==""' then put '$l_pos=regextract($i,"[0-9]+");$i=sub($i,".+:","")' then rename pos,r_pos then reshape -s i,v then sort -n CR,r_pos,l_pos "$folder"/processing/senato-italia-circoscrizione.csv
+mlr -I --csv cat then reshape -r ":" -o i,v then filter -S -x '$v==""' then put '$l_pos=regextract($i,"[0-9]+");$i=sub($i,".+:","")' then rename pos,r_pos then reshape -s i,v then sort -n CR,r_pos,l_pos then put -S '$perc=sub($perc,",",".")' "$folder"/processing/senato-italia-circoscrizione.csv
 
 mv "$folder"/processing/senato-italia-circoscrizione.csv "$folder"/../dati/risultati/senato-italia-circoscrizione.csv
 
