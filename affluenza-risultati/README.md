@@ -28,4 +28,5 @@ Non raccogliamo, al momento, i voti dall'estero.
 
 # Sitografia correlata
 
-- Guenter Richter, [mappa delle percentuali di affluenza alle ore 12:00](https://gjrichter.github.io/pages/Elezioni_Politiche_2022_affluenza/index.html).
+- Guenter Richter, [mappa delle percentuali di affluenza alle ore 12:00](https://gjrichter.github.io/pages/Elezioni_Politiche_2022_affluenza/index.html);
+- Totò Fiancaca, [progetto QGIS, con mappa affluenza per Comune](https://t.me/pigrecoinfinito/848).
