@@ -32,8 +32,8 @@ jobs:
       run: |-
         export PATH=$PATH:~/bin
         cd ./affluenza-risultati/script
-        chmod +x ./affluenza.sh
-        ./affluenza.sh
+        chmod +x ./test.sh
+        ./test.sh
     - name: Committa e pusha se ci sono variazioni nei dati
       run: |-
         git config user.name "automatico"
