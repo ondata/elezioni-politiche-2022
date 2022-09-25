@@ -101,7 +101,7 @@ mlr -I --csv reorder -f CR "$folder"/processing/camera-italia-circoscrizione.csv
 
 mlr -I --csv cat then reshape -r ":" -o i,v then filter -S -x '$v==""' then put '$l_pos=regextract($i,"[0-9]+");$i=sub($i,".+:","")' then rename pos,r_pos then reshape -s i,v then sort -n CR,r_pos,l_pos "$folder"/processing/camera-italia-circoscrizione.csv
 
-mv "$folder"/processing/camera-italia-circoscrizione.csv "$folder"/../dati/risultati/camera-italia-circoscrizion1.csv
+mv "$folder"/processing/camera-italia-circoscrizione.csv "$folder"/../dati/risultati/camera-italia-circoscrizione.csv
 
 ### Circoscrizione Senato Italia ###
 
