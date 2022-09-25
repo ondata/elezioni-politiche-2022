@@ -121,4 +121,8 @@ O almeno fare in modo che i campi `desc_ente` (Ministero) e `CU20_DEN` (Istat) a
 
 ## Se vuoi usare questi dati
 
-Se vuoi usarli, per favore aggiungi la nota (con il *link*) "da un progetto di [onData](https://github.com/ondata/elezioni-politiche-2022)". Grazie
+Se vuoi farlo, per favore aggiungi la nota (con il *link*) "da un progetto di [onData](https://github.com/ondata/elezioni-politiche-2022)".
+
+Se vuoi [**sostenerci**](https://ondata.it/dona/), qui le modalità per farlo.
+
+Grazie
