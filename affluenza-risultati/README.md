@@ -23,3 +23,9 @@ Grazie
 I dati per Comune, sono pubblicati in questo file: [`affluenzaComuni.csv`](dati/affluenza/affluenzaComuni.csv).
 
 Non raccogliamo, al momento, i voti dall'estero.
+
+[![](imgs/elezioni2022-affluenza-guenter-richter.png)](https://gjrichter.github.io/pages/Elezioni_Politiche_2022_affluenza/index.html)
+
+# Sitografia correlata
+
+- Guenter Richter, [mappa delle percentuali di affluenza alle ore 12:00](https://gjrichter.github.io/pages/Elezioni_Politiche_2022_affluenza/index.html).
