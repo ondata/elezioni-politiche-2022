@@ -4,7 +4,7 @@ on:
 #  push:
   repository_dispatch:
   schedule:
-    - cron:  '*/30 * * * *'
+    - cron:  '10 8,10,13,16 */1 * *'
   workflow_dispatch:
 
 jobs:
@@ -15,24 +15,30 @@ jobs:
       uses: actions/checkout@v2
       with:
         fetch-depth: 0
-    - name: crea cartella utente bin, copia dentro l'eseguibile di miller
+    - name: crea cartella utente bin, copia dentro l'eseguibile di miller, installa tor e jq
       run: |-
         mkdir -p ~/bin
         cp bin/mlr ~/bin
         cd ~/bin
         chmod +x mlr
         sudo pip install jq
-    - name: scarica i dati
+        sudo apt install tor
+        sudo sh -c "echo 'SOCKSPort 9050 # Default' >> /etc/tor/torrc"
+        sudo sh -c "echo 'ExitNodes {it} StrictNodes 1' >> /etc/tor/torrc"
+        sudo systemctl start tor
+        sudo service tor stop
+        sudo service tor start
+    - name: scarica i dati e crea feed
       run: |-
         export PATH=$PATH:~/bin
         cd ./affluenza-risultati/script
-        chmod +x ./test.sh
-        ./test.sh
+        chmod +x ./affluenza.sh
+        ./affluenza.sh
     - name: Committa e pusha se ci sono variazioni nei dati
       run: |-
         git config user.name "automatico"
         git config user.email "actions@users.noreply.github.com"
         git add -A
         timestamp=$(date --iso-8601=seconds)
-        git commit -m "Test: ${timestamp}" || exit 0
+        git commit -m "test: ${timestamp}" || exit 0
         git push
