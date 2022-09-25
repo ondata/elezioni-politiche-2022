@@ -51,10 +51,10 @@ done <"$folder"/rawdata/province.tsv
 mlr --c2t unsparsify "$folder"/processing/*.csv >"$folder"/processing/affluenzaComuni.tsv
 
 # estrai dal TSV i campi utili
-mlr -I --tsv cut -o -f "desc","cod","provincia","ele_t","com_vot:0:dt_com","com_vot:0:perc","com_vot:0:vot_t","com_vot:1:dt_com","com_vot:1:perc","com_vot:1:vot_t","com_vot:2:dt_com","com_vot:2:perc","com_vot:2:vot_t","com_vot:3:dt_com","com_vot:3:perc","com_vot:3:vot_t" "$folder"/processing/affluenzaComuni.tsv
+mlr -I --tsv cut -o -f "desc","cod","provincia","ele_t","com_vot:0:dt_com","com_vot:0:perc","com_vot:0:vot_t","com_vot:0:perc_r","com_vot:1:dt_com","com_vot:1:perc","com_vot:1:vot_t","com_vot:1:perc_r","com_vot:2:dt_com","com_vot:2:perc","com_vot:2:vot_t","com_vot:2:perc_r" "$folder"/processing/affluenzaComuni.tsv
 
 # rinomina i campi del TSV
-mlr -I --tsv rename "desc","comune","cod","cod_istat","ele_t","elettori","com_vot:0:dt_com","datah12","com_vot:0:perc","%h12","com_vot:0:vot_t","voti_h12","com_vot:1:dt_com","datah19","com_vot:1:perc","%h19","com_vot:1:vot_t","voti_h19","com_vot:2:dt_com","datah23","com_vot:2:perc","%h23","com_vot:2:vot_t","voti_h23","com_vot:3:dt_com","datah15","com_vot:3:perc","%h15","com_vot:3:vot_t","voti_h15" "$folder"/processing/affluenzaComuni.tsv
+mlr -I --tsv rename "desc","comune","cod","cod_istat","ele_t","elettori","com_vot:0:dt_com","datah12","com_vot:0:perc","%h12","com_vot:0:vot_t","voti_h12","com_vot:0:perc_r","%h12_prec","com_vot:1:dt_com","datah19","com_vot:1:perc","%h19","com_vot:1:vot_t","voti_h19","com_vot:1:perc_r","%h19_prec","com_vot:2:dt_com","datah23","com_vot:2:perc","%h23","com_vot:2:vot_t","voti_h23","com_vot:2:perc_r","%h23_prec" "$folder"/processing/affluenzaComuni.tsv
 
 # aggiungi codice comune
 mlr -I --tsv put '$codINT=fmtnum($cod_istat,"%04d")' then put -S '$codINT=sub($provincia,"0000$","").$codINT' "$folder"/processing/affluenzaComuni.tsv
