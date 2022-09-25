@@ -55,3 +55,49 @@ if [ ! -f "$folder"/../risorse/anagraficaComuni.csv ]; then
 
   mlr -I --csv put -S '$codINT=sub(${CODICE ELETTORALE},"^(.{1})(.+)$","\2")' "$folder"/../risorse/anagraficaComuni.csv
 fi
+
+camera="https://elezioni.interno.gov.it/tornate/20220925/enti/camera_geopolitico_italia.json"
+
+if [ ! -f "$folder"/../risorse/camera_geopolitico_italia.json ]; then
+  curl "$camera" \
+    -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0' \
+    -H 'Accept: application/json, text/javascript, */*; q=0.01' \
+    -H 'Accept-Language: it,en-US;q=0.7,en;q=0.3' \
+    -H 'Accept-Encoding: gzip, deflate, br' \
+    -H 'X-Requested-With: XMLHttpRequest' \
+    -H 'DNT: 1' \
+    -H 'Connection: keep-alive' \
+    -H 'Referer: https://elezioni.interno.gov.it/camera/votanti/20220925/votantiCI' \
+    -H 'Sec-Fetch-Dest: empty' \
+    -H 'Sec-Fetch-Mode: cors' \
+    -H 'Sec-Fetch-Site: same-origin' \
+    -H 'Pragma: no-cache' \
+    -H 'Cache-Control: no-cache' \
+    -H 'TE: trailers' --compressed | jq . >"$folder"/../risorse/camera_geopolitico_italia.json
+fi
+
+# converti in CSV
+jq <"$folder"/../risorse/camera_geopolitico_italia.json '.enti[]' | mlr --j2c unsparsify >"$folder"/../risorse/camera_geopolitico_italia.csv
+
+senato="https://elezioni.interno.gov.it/tornate/20220925/enti/senato_geopolitico_italia.json"
+
+if [ ! -f "$folder"/../risorse/senato_geopolitico_italia.json ]; then
+  curl "$senato" \
+    -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0' \
+    -H 'Accept: application/json, text/javascript, */*; q=0.01' \
+    -H 'Accept-Language: it,en-US;q=0.7,en;q=0.3' \
+    -H 'Accept-Encoding: gzip, deflate, br' \
+    -H 'X-Requested-With: XMLHttpRequest' \
+    -H 'DNT: 1' \
+    -H 'Connection: keep-alive' \
+    -H 'Referer: https://elezioni.interno.gov.it/camera/votanti/20220925/votantiCI' \
+    -H 'Sec-Fetch-Dest: empty' \
+    -H 'Sec-Fetch-Mode: cors' \
+    -H 'Sec-Fetch-Site: same-origin' \
+    -H 'Pragma: no-cache' \
+    -H 'Cache-Control: no-cache' \
+    -H 'TE: trailers' --compressed | jq . >"$folder"/../risorse/senato_geopolitico_italia.json
+fi
+
+# converti in CSV
+jq <"$folder"/../risorse/senato_geopolitico_italia.json '.enti[]' | mlr --j2c unsparsify >"$folder"/../risorse/senato_geopolitico_italia.csv
