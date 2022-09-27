@@ -20,7 +20,10 @@ Grazie
 
 ## Affluenza
 
-I dati per Comune, sono pubblicati in questo file: [`affluenzaComuni.csv`](dati/affluenza/affluenzaComuni.csv).
+I dati per Comune, sono pubblicati in questi file:
+
+- [`affluenzaComuni.csv`](dati/affluenza/affluenzaComuni.csv);
+- [`affluenzaComuni_mf.csv`](dati/affluenza/affluenzaComuni_mf.csv), con i dati distinti per sesso (maschi e femmine).
 
 Non raccogliamo, al momento, i voti dall'estero.
 
