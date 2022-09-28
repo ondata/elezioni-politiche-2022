@@ -29,6 +29,35 @@ Non raccogliamo, al momento, i voti dall'estero.
 
 [![](imgs/elezioni2022-affluenza-guenter-richter.png)](https://gjrichter.github.io/pages/Elezioni_Politiche_2022_affluenza/index.html)
 
+## Risultati
+
+Al momento abbiamo scaricati tutti i dati di livello gerarchico più basso (comunale e/o per le grandi città i collegi in esse contenuti), relativi alla Camera dei Deputati.
+
+Questi i file:
+
+- [`camera-italia-comune_anagrafica`](dati/risultati/camera-italia-comune_anagrafica), con i dati di anagrafica, per ogni comune/collegio;
+- [`camera-italia-comune.csv`](dati/risultati/camera-italia-comune.csv), con i dati per candidate e candidati e liste relative;
+- [`camera_geopolitico_italia.csv`](risorse/camera_geopolitico_italia.csv), la suddivisione "geopolitica" per la Camera.
+
+
+Alcune note:
+
+- manca al momento la Val D'Aosta;
+- manca una descrizione dei campi, ma la gran parte sono deducibili a schermo (speriamo di rimediare presto);
+- sono da attenzionare i campi `codice`, nei file `camera-italia-comune_anagrafica` e `camera-italia-comune.csv` e il campo `cod` di `camera_geopolitico_italia.csv`. A seguire un esempio di dettaglio.
+
+Il comune di `CASELLE TORINESE` ha il `cod` `010101101130810620`, che è costruito così:
+
+- `01` la regione;
+- `01` la circoscrizione;
+- `011` il codice del collegio plurinominale;
+- `0113`, il codice del collegio uninominale;
+- `081`, è il codice provincia;
+- `0620`, è il codice comune;
+
+
+Nel campo `codice`, che qui è `0113-081-0620`, sono riportati soltanto gli ultimi tre blocchi.
+
 # Sitografia correlata
 
 - Guenter Richter, [mappa delle percentuali di affluenza alle ore 12:00](https://gjrichter.github.io/pages/Elezioni_Politiche_2022_affluenza/index.html);
