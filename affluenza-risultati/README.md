@@ -31,7 +31,7 @@ Non raccogliamo, al momento, i voti dall'estero.
 
 ## Risultati
 
-Al momento abbiamo scaricati tutti i dati di livello gerarchico più basso (comunale e/o per le grandi città i collegi in esse contenuti), relativi alla Camera dei Deputati.
+Al momento abbiamo scaricato i dati di livello gerarchico più basso (comunale e/o per le grandi città i collegi in esse contenuti), relativi alla Camera dei Deputati.
 
 Questi i file:
 
