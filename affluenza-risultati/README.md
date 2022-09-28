@@ -47,7 +47,7 @@ Alcune note:
 - manca una descrizione dei campi, ma la gran parte sono deducibili a schermo (speriamo di rimediare presto);
 - sono da attenzionare i campi `codice`, nei file `camera-italia-comune_anagrafica` e `camera-italia-comune.csv` e il campo `cod` di `camera_geopolitico_italia.csv`. A seguire un esempio di dettaglio.
 
-Il comune di `CASELLE TORINESE` ha il `cod` `010101101130810620`, che è costruito così:
+Il comune di `CASELLE TORINESE` ha il `cod` `010101101130810620`, che è così composto:
 
 - `01` la regione;
 - `01` la circoscrizione;
