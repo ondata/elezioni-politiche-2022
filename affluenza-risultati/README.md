@@ -42,6 +42,7 @@ Questi i file:
 
 Alcune note:
 
+- non abbiamo fatto ancora alcun controllo di errore;
 - manca al momento la Val D'Aosta;
 - manca una descrizione dei campi, ma la gran parte sono deducibili a schermo (speriamo di rimediare presto);
 - sono da attenzionare i campi `codice`, nei file `camera-italia-comune_anagrafica` e `camera-italia-comune.csv` e il campo `cod` di `camera_geopolitico_italia.csv`. A seguire un esempio di dettaglio.
