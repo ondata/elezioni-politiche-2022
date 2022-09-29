@@ -27,5 +27,10 @@ Grazie.
 - Alberto Puliafito, "[Italian elections – a case study for saving time and money in newsrooms](https://thefix.media/2022/9/19/italian-elections-a-case-of-study-for-saving-time-and-money-in-newsrooms)";
 - Marco Zorzi, [Astensione é rigetto per la politica, ma mette il bavaglio alla democrazia](https://www.altovicentinonline.it/sotto-la-lente/astensione-e-rigetto-per-la-politica-ma-mette-il-bavaglio-alla-democrazia/);
 - Guenter Richter e Davide Del Monte, "[🗺️ Le mappe dei collegi elettorali e i dati sul genere](https://www.ondata.it/le-mappe-dei-collegi-elettorali-e-i-dati-sul-genere/)";
-- Elisabetta Tola, "[La scuola che vorremmo vedere nei programmi elettorali (spoiler: non c’è)](https://www.valigiablu.it/scuola-programmi-elezioni-2022/)".
-
+- Elisabetta Tola, "[La scuola che vorremmo vedere nei programmi elettorali (spoiler: non c’è)](https://www.valigiablu.it/scuola-programmi-elezioni-2022/)";
+- Guenter Richter, [mappa delle percentuali di affluenza alle ore 12:00](https://gjrichter.github.io/pages/Elezioni_Politiche_2022_affluenza/index.html);
+- Totò Fiandaca, [progetto QGIS, con mappa affluenza per Comune](https://t.me/pigrecoinfinito/848);
+- Guenter Richter, [mappa degli scrutini per la Camera, per Comune](https://gjrichter.github.io/pages/Elezioni_Politiche_2022_scrutini/index_comuni_extended.html);
+- Raffaele Mastrolonardo, [Elezioni 2022, la lista più votata comune per comune](https://public.flourish.studio/visualisation/11321338/);
+- Morena Ragone e Vincenzo Patruno, [Elezioni e open data: una riflessione a urne chiuse](https://www.forumpa.it/open-government/open-data/elezioni-e-open-data-una-riflessione-a-urne-chiuse/);
+- Donata Columbro e Barbara Leda Kenny, [Dov’è finito il voto delle donne](https://www.essenziale.it/notizie/donata-columbro/2022/09/29/voto-delle-donne).
