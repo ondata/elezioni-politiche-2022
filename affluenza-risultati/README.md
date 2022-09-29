@@ -59,7 +59,10 @@ Il comune di `CASELLE TORINESE` ha il `cod` `010101101130810620`, che è così c
 
 Nel campo `codice`, che qui è `0113-081-0620`, sono riportati soltanto gli ultimi tre blocchi.
 
+[![](imgs/dati-elettorali-camera.png)](https://gjrichter.github.io/pages/Elezioni_Politiche_2022_scrutini/index_comuni_extended.html)
+
 # Sitografia correlata
 
 - Guenter Richter, [mappa delle percentuali di affluenza alle ore 12:00](https://gjrichter.github.io/pages/Elezioni_Politiche_2022_affluenza/index.html);
-- Totò Fiandaca, [progetto QGIS, con mappa affluenza per Comune](https://t.me/pigrecoinfinito/848).
+- Totò Fiandaca, [progetto QGIS, con mappa affluenza per Comune](https://t.me/pigrecoinfinito/848);
+- Guenter Richter, [mappa degli scrutini per la Camera, per Comune](https://gjrichter.github.io/pages/Elezioni_Politiche_2022_scrutini/index_comuni_extended.html).
