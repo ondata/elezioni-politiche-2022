@@ -35,7 +35,7 @@ Al momento abbiamo scaricato i dati di livello gerarchico più basso (comunale e
 
 Questi i file:
 
-- [`camera-italia-comune_anagrafica`](dati/risultati/camera-italia-comune_anagrafica), con i dati di anagrafica, per ogni comune/collegio;
+- [`camera-italia-comune_anagrafica`](dati/risultati/camera-italia-comune_anagrafica.csv), con i dati di anagrafica, per ogni comune/collegio;
 - [`camera-italia-comune.csv`](dati/risultati/camera-italia-comune.csv), con i dati per candidate e candidati e liste relative;
 - [`camera_geopolitico_italia.csv`](risorse/camera_geopolitico_italia.csv), la suddivisione "geopolitica" per la Camera.
 
