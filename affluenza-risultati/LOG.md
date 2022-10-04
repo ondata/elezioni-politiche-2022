@@ -8,7 +8,7 @@ Nel file JSON di input di Eligendo infatti ci sono due campi, entrambi con nome 
 
 È stato aggiunto il campo `perc_cand`, ed è stato inserito come ultimo campo. Quindi adesso nel file [`camera-italia-comune.csv`](dati/risultati/camera-italia-comune.csv) sono presenti questi due campi:
 
-- `perc_cand`, con la percentuale di candidata/o;
+- `perc_cand`, con la percentuale di candidata/o (per ogni candidato questo voto è ripetuto per ogni lista da qui è sostenuto, quindi prendere i valori distinti);
 - `perc`, con la percentuale della lista.
 
 Grazie [Lorenzo Arcidiaco](https://twitter.com/LArcidiaco) per la segnalazione.
