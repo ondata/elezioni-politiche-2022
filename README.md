@@ -33,4 +33,8 @@ Grazie.
 - Guenter Richter, [mappa degli scrutini per la Camera, per Comune](https://gjrichter.github.io/pages/Elezioni_Politiche_2022_scrutini/index_comuni_extended.html);
 - Raffaele Mastrolonardo, [Elezioni 2022, la lista più votata comune per comune](https://public.flourish.studio/visualisation/11321338/);
 - Morena Ragone e Vincenzo Patruno, [Elezioni e open data: una riflessione a urne chiuse](https://www.forumpa.it/open-government/open-data/elezioni-e-open-data-una-riflessione-a-urne-chiuse/);
-- Donata Columbro e Barbara Leda Kenny, [Dov’è finito il voto delle donne](https://www.essenziale.it/notizie/donata-columbro/2022/09/29/voto-delle-donne).
+- Donata Columbro e Barbara Leda Kenny, [Dov’è finito il voto delle donne](https://www.essenziale.it/notizie/donata-columbro/2022/09/29/voto-delle-donne);
+- Moreno Colaiacovo, "[Cosa sarebbe successo alle #elezioni se ci fosse stato il mio sistema preferito (doppio turno francese)](https://twitter.com/emmecola/status/1576505968937951233)";
+- Alessandro Vallin, "[quante persone hanno votato in Trentino-Alto Adige](https://twitter.com/aluollin/status/1575958494355693568)";
+- Lorenzo Arcidiaco, "[Mappa del primo e del secondo  partito per Comune](https://twitter.com/LArcidiaco/status/1575902947044601857)".
+- Guenter Richter, "[Camera dei Deputati Scrutini Comuni - Coalizioni e Liste](https://gjrichter.github.io/pages/Elezioni_Politiche_2022_scrutini/index_comuni_extended_coalizioni.html)".
