@@ -1,3 +1,7 @@
+# 2022-10-08
+
+Aggiunti dati ufficiali scrutini, [pubblicati su Eligendo](README.md#dati-ufficiali-eligendo).
+
 # 2022-10-04
 
 Abbiamo fatto un errore di trasformazione dei dati, legato al campo `perc`, del file [`camera-italia-comune.csv`](dati/risultati/camera-italia-comune.csv).<br>
