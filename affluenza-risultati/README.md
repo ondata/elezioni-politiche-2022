@@ -60,3 +60,19 @@ Il comune di `CASELLE TORINESE` ha il `cod` `010101101130810620`, che è così c
 Nel campo `codice`, che qui è `0113-081-0620`, sono riportati soltanto gli ultimi tre blocchi.
 
 [![](imgs/dati-elettorali-camera.png)](https://gjrichter.github.io/pages/Elezioni_Politiche_2022_scrutini/index_comuni_extended.html)
+
+## Dati ufficiali Eligendo
+
+Nella [sezione **Reportistica**](https://elezioni.interno.gov.it/report/20220925) di Eligendo, sono stati pubblicati gli scrutini di Camera e Senato.
+
+Ne abbiamo creato una copia, facendo queste operazioni:
+
+- convertendo l'encoding da `iso8859-1` a `UTF-8`;
+- cambiando il separatore di campo da `;` a `,`;
+- aggiungendo il campo `CODICE ISTAT`, con il codice comunale Istat.
+
+Due i file:
+
+- [`Politiche2022_Scrutini_Camera_Italia.csv`](dati/Eligendo/processing/Politiche2022_Scrutini_Camera_Italia.csv);
+- [`Politiche2022_Scrutini_Senato_Italia.csv`](dati/Eligendo/processing/Politiche2022_Scrutini_Senato_Italia.csv).
+
