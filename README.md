@@ -38,4 +38,5 @@ Grazie.
 - Alessandro Vallin, "[quante persone hanno votato in Trentino-Alto Adige](https://twitter.com/aluollin/status/1575958494355693568)";
 - Lorenzo Arcidiaco, "[Mappa del primo e del secondo  partito per Comune](https://twitter.com/LArcidiaco/status/1575902947044601857)".
 - Guenter Richter, "[Camera dei Deputati Scrutini Comuni - Coalizioni e Liste](https://gjrichter.github.io/pages/Elezioni_Politiche_2022_scrutini/index_comuni_extended_coalizioni.html)";
-- Alberto Borrarini, "[Elezioni 2022](http://elezioni2022.albertobottarini.com/circoscrizioni-camera)".
+- Alberto Borrarini, "[Elezioni 2022](http://elezioni2022.albertobottarini.com/circoscrizioni-camera)";
+- Ruggero Marino Lazzaroni, [Arcipelaghi di coalizioni elettorali](https://twitter.com/ruggsea/status/1579199226432880640);
