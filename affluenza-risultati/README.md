@@ -76,3 +76,5 @@ Due i file:
 - [`Politiche2022_Scrutini_Camera_Italia.csv`](dati/Eligendo/processing/Politiche2022_Scrutini_Camera_Italia.csv);
 - [`Politiche2022_Scrutini_Senato_Italia.csv`](dati/Eligendo/processing/Politiche2022_Scrutini_Senato_Italia.csv).
 
+⚠️ **Nota bene**: al 9 ottobre 2022 non sono presenti in questi dati di Eligendo, le informazioni su tutti i Comuni di Italia.
+
