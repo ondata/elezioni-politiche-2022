@@ -101,3 +101,12 @@ fi
 
 # converti in CSV
 jq <"$folder"/../risorse/senato_geopolitico_italia.json '.enti[]' | mlr --j2c unsparsify >"$folder"/../risorse/senato_geopolitico_italia.csv
+
+
+# aggiungi a dati comunali camera, il codice ISTAT
+
+mlr --csv put '$join=fmtnum($cod_prov,"%03d").fmtnum($cod_com,"%04d")' "$folder"/../dati/risultati/camera-italia-comune_anagrafica.csv >"$folder"/tmp/tmp.csv
+
+mlr --csv put -S '$join=regextract($codINT,"[0-9]{7}$")' then cut -f join,"CODICE ISTAT" "$folder"/../risorse/anagraficaComuni.csv >"$folder"/tmp/tmp2.csv
+
+mlr --csv join --ul -j join -f "$folder"/tmp/tmp.csv then unsparsify then cut -x -f join "$folder"/tmp/tmp2.csv >"$folder"/../dati/risultati/camera-italia-comune_anagrafica.csv
