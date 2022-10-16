@@ -40,4 +40,5 @@ Grazie.
 - Guenter Richter, "[Camera dei Deputati Scrutini Comuni - Coalizioni e Liste](https://gjrichter.github.io/pages/Elezioni_Politiche_2022_scrutini/index_comuni_extended_coalizioni.html)";
 - Alberto Borrarini, "[Elezioniamo 2022](http://elezioniamo.albertobottarini.com)";
 - Ruggero Marino Lazzaroni, [Arcipelaghi di coalizioni elettorali](https://twitter.com/ruggsea/status/1579199226432880640);
-- Ruggero Marino Lazzaroni, [Machine Learning applicato ai dati elettorali](https://twitter.com/ruggsea/status/1581034588159496192).
+- Ruggero Marino Lazzaroni, [Machine Learning applicato ai dati elettorali](https://twitter.com/ruggsea/status/1581034588159496192);
+- Gianmarco Di Lella, [Per mostrare come "la terra non voti"](https://twitter.com/gmdilella/status/1581653948104003585).
