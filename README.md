@@ -43,3 +43,4 @@ Grazie.
 - Ruggero Marino Lazzaroni, [Machine Learning applicato ai dati elettorali](https://twitter.com/ruggsea/status/1581034588159496192);
 - Gianmarco Di Lella, [Per mostrare come "la terra non voti"](https://twitter.com/gmdilella/status/1581653948104003585);
 - Guenter Richter, "[Affluenza 2018 / 2022 al confronto](https://gjrichter.github.io/pages/Elezioni_Politiche_2022_affluenza/index_page_affluenza_diff_2028_2022.html)".
+- Gianmarco Di Lella, [Otto modi di dividere l'Italia delle ultime elezioni politiche](https://twitter.com/gmdilella/status/1624802748540624896)
